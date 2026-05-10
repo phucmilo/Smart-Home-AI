@@ -1,0 +1,34 @@
+title: Smart Home VKU
+views:
+  - title: Cửa Ra Vào
+    icon: mdi:door
+    cards:
+      # ── Trạng thái + điều khiển khóa ──────────────────────
+      - type: entities
+        title: Khóa Cửa Chính
+        entities:
+          - entity: lock.khoa_cua_chinh
+            name: Trạng thái cửa
+
+      # ── Nút bấm nhanh ─────────────────────────────────────
+      - type: horizontal-stack
+        cards:
+          - type: button
+            name: Mở Cửa
+            icon: mdi:door-open
+            tap_action:
+              action: call-service
+              service: lock.unlock
+              service_data:
+                entity_id: lock.khoa_cua_chinh
+            icon_height: 60px
+
+          - type: button
+            name: Khóa Cửa
+            icon: mdi:door-closed-lock
+            tap_action:
+              action: call-service
+              service: lock.lock
+              service_data:
+                entity_id: lock.khoa_cua_chinh
+            icon_height: 60px

@@ -1,0 +1,35 @@
+# ============================================================
+# Home Assistant – Smart Home VKU v2.0
+# ============================================================
+
+homeassistant:
+  name: Smart Home VKU
+  latitude: 16.0544      # ← ĐỔI: vĩ độ của bạn (không bắt buộc)
+  longitude: 108.2022    # ← ĐỔI: kinh độ của bạn (không bắt buộc)
+  unit_system: metric
+  time_zone: Asia/Ho_Chi_Minh
+
+default_config:
+
+# ── MQTT Integration ─────────────────────────────────────────
+mqtt:
+  broker: 192.168.88.150  # IP máy Mac
+  port: 1883
+  username: mqttuser     # ← Phải khớp file passwd
+  password: mqttpass     # ← Phải khớp file passwd
+  discovery: true
+
+# ── Khóa cửa (Servo qua ESP32) ───────────────────────────────
+lock:
+  - platform: mqtt
+    name: "Khóa Cửa Chính"
+    unique_id: esp32_door_lock
+    command_topic: "home/door/command"
+    state_topic:   "home/door/state"
+    payload_lock:   "LOCK"
+    payload_unlock: "UNLOCK"
+    state_locked:   "locked"
+    state_unlocked: "unlocked"
+    optimistic: false
+    retain: false
+    icon: mdi:door-closed-lock

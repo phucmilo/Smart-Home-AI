@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "id": "smarthome",
+        "name": "SmartHome",
+        "user_id": "6b52dc7e823b4d37a8b22bd9f708d951",
+        "device_trackers": [
+          "device_tracker.dieu_khien"
+        ]
+      }
+    ]
+  }
+}

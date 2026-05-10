@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {"entity_id":"conversation.home_assistant","state":"unknown","attributes":{"friendly_name":"Home Assistant","supported_features":1},"last_changed":"2026-04-15T07:34:45.159148+00:00","last_reported":"2026-04-15T07:34:45.159148+00:00","last_updated":"2026-04-15T07:34:45.159148+00:00","context":{"id":"01KP810QN7DAYZA5CQB6QXHN0Y","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"event.backup_automatic_backup","state":"unknown","attributes":{"event_types":["completed","failed","in_progress"],"event_type":null,"friendly_name":"Backup Automatic backup"},"last_changed":"2026-04-15T07:34:45.190095+00:00","last_reported":"2026-04-15T07:34:45.190095+00:00","last_updated":"2026-04-15T07:34:45.190095+00:00","context":{"id":"01KP810QP6ZGPN8EZ3XCGARH9Q","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "last_event_type": null,
+        "last_event_attributes": null
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"person.smarthome","state":"not_home","attributes":{"editable":true,"id":"smarthome","device_trackers":["device_tracker.dieu_khien"],"latitude":15.969931907731288,"longitude":108.23563690048319,"gps_accuracy":16,"source":"device_tracker.dieu_khien","user_id":"6b52dc7e823b4d37a8b22bd9f708d951","friendly_name":"SmartHome"},"last_changed":"2026-04-15T07:34:45.487744+00:00","last_reported":"2026-04-15T07:34:49.059471+00:00","last_updated":"2026-04-15T07:34:49.059471+00:00","context":{"id":"01KP810VF3EYV05TYE20PKN5XN","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"device_tracker.dieu_khien","state":"not_home","attributes":{"source_type":"gps","battery_level":1,"latitude":15.969931907731288,"longitude":108.23563690048319,"gps_accuracy":16,"altitude":10.729191461734816,"vertical_accuracy":30,"friendly_name":"Điều khiển "},"last_changed":"2026-04-15T07:34:46.264220+00:00","last_reported":"2026-04-15T07:34:46.264220+00:00","last_updated":"2026-04-15T07:34:46.264220+00:00","context":{"id":"01KP810RQRKSYAQVXW43FHJYZR","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.dieu_khien_battery_level","state":"1","attributes":{"unit_of_measurement":"%","device_class":"battery","icon":"mdi:battery-outline","friendly_name":"Điều khiển  Battery Level"},"last_changed":"2026-04-15T07:34:46.264540+00:00","last_reported":"2026-04-15T07:34:46.264540+00:00","last_updated":"2026-04-15T07:34:46.264540+00:00","context":{"id":"01KP810RQRZ52JQV72H30D3WT7","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": 1,
+        "native_unit_of_measurement": "%"
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.dieu_khien_storage","state":"unavailable","attributes":{"unit_of_measurement":"% available","icon":"mdi:dots-square","friendly_name":"Điều khiển  Storage"},"last_changed":"2026-04-15T07:34:46.264653+00:00","last_reported":"2026-04-15T07:34:46.264653+00:00","last_updated":"2026-04-15T07:34:46.264653+00:00","context":{"id":"01KP810RQRN3Q3WSHN9NDP8S1T","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "unavailable",
+        "native_unit_of_measurement": "% available"
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.dieu_khien_ssid","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"Điều khiển  SSID"},"last_changed":"2026-04-15T07:34:46.264740+00:00","last_reported":"2026-04-15T07:34:46.264740+00:00","last_updated":"2026-04-15T07:34:46.264740+00:00","context":{"id":"01KP810RQR8942PRHSRT3HZ7CQ","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "unavailable",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.dieu_khien_battery_state","state":"Charging","attributes":{"Low Power Mode":false,"icon":"mdi:battery-outline","friendly_name":"Điều khiển  Battery State"},"last_changed":"2026-04-15T07:34:46.264816+00:00","last_reported":"2026-04-15T07:34:46.264816+00:00","last_updated":"2026-04-15T07:34:46.264816+00:00","context":{"id":"01KP810RQR90B2JKT3NA66GPPE","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "Charging",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.dieu_khien_bssid","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"Điều khiển  BSSID"},"last_changed":"2026-04-15T07:34:46.264873+00:00","last_reported":"2026-04-15T07:34:46.264873+00:00","last_updated":"2026-04-15T07:34:46.264873+00:00","context":{"id":"01KP810RQR3SFTZ9RVY7T60NRN","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "unavailable",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.dieu_khien_sim_1","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"Điều khiển  SIM 1"},"last_changed":"2026-04-15T07:34:46.264925+00:00","last_reported":"2026-04-15T07:34:46.264925+00:00","last_updated":"2026-04-15T07:34:46.264925+00:00","context":{"id":"01KP810RQRGV6F6JYPEKZKM4AH","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "unavailable",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.dieu_khien_sim_2","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"Điều khiển  SIM 2"},"last_changed":"2026-04-15T07:34:46.264992+00:00","last_reported":"2026-04-15T07:34:46.264992+00:00","last_updated":"2026-04-15T07:34:46.264992+00:00","context":{"id":"01KP810RQR96P9186N0YY1DP9K","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "unavailable",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.dieu_khien_geocoded_location","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"Điều khiển  Geocoded Location"},"last_changed":"2026-04-15T07:34:46.265043+00:00","last_reported":"2026-04-15T07:34:46.265043+00:00","last_updated":"2026-04-15T07:34:46.265043+00:00","context":{"id":"01KP810RQS4H3BF567MS6ZP1KZ","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "unavailable",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.dieu_khien_app_version","state":"2026.4.0","attributes":{"icon":"mdi:cellphone","friendly_name":"Điều khiển  App Version"},"last_changed":"2026-04-15T07:34:46.265095+00:00","last_reported":"2026-04-15T07:34:46.265095+00:00","last_updated":"2026-04-15T07:34:46.265095+00:00","context":{"id":"01KP810RQS5XV2P9WAK3MD1038","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "2026.4.0",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.dieu_khien_last_update_trigger","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"Điều khiển  Last Update Trigger"},"last_changed":"2026-04-15T07:34:46.265142+00:00","last_reported":"2026-04-15T07:34:46.265142+00:00","last_updated":"2026-04-15T07:34:46.265142+00:00","context":{"id":"01KP810RQSA9YWPT0834PVCFN3","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "unavailable",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.dieu_khien_location_permission","state":"Authorized Always","attributes":{"icon":"mdi:map","friendly_name":"Điều khiển  Location permission"},"last_changed":"2026-04-15T07:34:46.265193+00:00","last_reported":"2026-04-15T07:34:46.265193+00:00","last_updated":"2026-04-15T07:34:46.265193+00:00","context":{"id":"01KP810RQSQGP43XS0AEVPD3WV","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "Authorized Always",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.dieu_khien_audio_output","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"Điều khiển  Audio Output"},"last_changed":"2026-04-15T07:34:46.265245+00:00","last_reported":"2026-04-15T07:34:46.265245+00:00","last_updated":"2026-04-15T07:34:46.265245+00:00","context":{"id":"01KP810RQS3X1DFXRF45NPV27M","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "unavailable",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.dieu_khien_connection_type","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"Điều khiển  Connection Type"},"last_changed":"2026-04-15T07:34:46.265304+00:00","last_reported":"2026-04-15T07:34:46.265304+00:00","last_updated":"2026-04-15T07:34:46.265304+00:00","context":{"id":"01KP810RQS9AQ41WYNNDH96RCC","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "unavailable",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    },
+    {
+      "state": {"entity_id":"tts.google_translate_en_com","state":"unknown","attributes":{"friendly_name":"Google Translate en com"},"last_changed":"2026-04-15T07:34:46.274041+00:00","last_reported":"2026-04-15T07:34:46.274041+00:00","last_updated":"2026-04-15T07:34:46.274041+00:00","context":{"id":"01KP810RR26W10VZDHGZDD3BV2","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2026-04-20T13:22:15.341752+00:00"
+    }
+  ]
+}

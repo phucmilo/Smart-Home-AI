@@ -1,0 +1,10 @@
+2026-04-15 14:34:46.236 ERROR (MainThread) [homeassistant.config] Invalid config for 'mqtt' at configuration.yaml, line 15: 'broker' is an invalid option for 'mqtt', check: mqtt->0->broker, please check the docs at https://www.home-assistant.io/integrations/mqtt
+Invalid config for 'mqtt' at configuration.yaml, line 15: 'discovery' is an invalid option for 'mqtt', check: mqtt->0->discovery, please check the docs at https://www.home-assistant.io/integrations/mqtt
+Invalid config for 'mqtt' at configuration.yaml, line 15: 'password' is an invalid option for 'mqtt', check: mqtt->0->password, please check the docs at https://www.home-assistant.io/integrations/mqtt
+Invalid config for 'mqtt' at configuration.yaml, line 15: 'port' is an invalid option for 'mqtt', check: mqtt->0->port, please check the docs at https://www.home-assistant.io/integrations/mqtt
+Invalid config for 'mqtt' at configuration.yaml, line 15: 'username' is an invalid option for 'mqtt', check: mqtt->0->username, please check the docs at https://www.home-assistant.io/integrations/mqtt
+2026-04-15 14:34:46.236 ERROR (MainThread) [homeassistant.setup] Setup failed for 'mqtt': Invalid config.
+2026-04-15 14:34:46.236 ERROR (MainThread) [homeassistant.setup] Unable to prepare setup for platform 'mqtt.lock': Unable to set up component.
+2026-04-15 16:30:51.989 ERROR (MainThread) [metno] Access to https://aa015h6buqvih86i1.api.met.no/weatherapi/locationforecast/2.0/complete returned error 'ClientConnectorDNSError'
+2026-04-15 16:30:51.992 ERROR (MainThread) [homeassistant.components.met.coordinator] Error fetching met data: Update of data from the web site failed: 
+2026-04-20 02:21:23.904 WARNING (MainThread) [homeassistant.helpers.entity] Updating state for sun.sun (<class 'homeassistant.components.sun.entity.Sun'>) took 0.676 seconds. Please create a bug report at https://github.com/home-assistant/core/issues?q=is%3Aopen+is%3Aissue+label%3A%22integration%3A+sun%22

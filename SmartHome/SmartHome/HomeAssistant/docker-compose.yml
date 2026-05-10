@@ -1,0 +1,38 @@
+services:
+
+  # ── Mosquitto MQTT Broker ──────────────────────────────────
+  mosquitto:
+    image: eclipse-mosquitto:2
+    container_name: mosquitto
+    restart: unless-stopped
+    ports:
+      - "1883:1883"     # MQTT (ESP32 kết nối vào đây)
+    volumes:
+      - ./mosquitto/config:/mosquitto/config
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/log:/mosquitto/log
+
+  # ── Web Điều Khiển Cửa ────────────────────────────────────
+  webapp:
+    build: ../WebApp
+    container_name: door-webapp
+    restart: unless-stopped
+    ports:
+      - "3000:3000"     # Truy cập http://192.168.88.83:3000
+      - "3443:3443"     # HTTPS (mic/voice cần secure context)
+    depends_on:
+      - mosquitto
+
+  # ── Home Assistant ─────────────────────────────────────────
+  homeassistant:
+    image: ghcr.io/home-assistant/home-assistant:stable
+    container_name: homeassistant
+    restart: unless-stopped
+    ports:
+      - "8123:8123"     # Web UI – truy cập http://localhost:8123
+    volumes:
+      - ./ha-config:/config
+    depends_on:
+      - mosquitto
+    environment:
+      - TZ=Asia/Ho_Chi_Minh

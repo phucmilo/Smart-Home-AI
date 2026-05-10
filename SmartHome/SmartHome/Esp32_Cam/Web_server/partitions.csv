@@ -1,0 +1,7 @@
+# ESP32-CAM 4MB Flash – Custom Partition for Face Recognition
+# App: 3.75MB (no OTA), SPIFFS: 192KB
+# Name,   Type, SubType, Offset,   Size,     Flags
+nvs,      data, nvs,     0x9000,   0x5000,
+phy_init, data, phy,     0xf000,   0x1000,
+factory,  app,  factory, 0x10000,  0x3C0000,
+spiffs,   data, spiffs,  0x3D0000, 0x30000,

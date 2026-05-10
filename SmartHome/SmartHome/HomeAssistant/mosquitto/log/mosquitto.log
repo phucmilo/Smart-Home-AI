@@ -1,0 +1,1620 @@
+1776099732: mosquitto version 2.1.2 starting
+1776099732: Config loaded from /mosquitto/config/mosquitto.conf.
+1776099732: Bridge support available.
+1776099732: Persistence support available.
+1776099732: TLS support available.
+1776099732: TLS-PSK support available.
+1776099732: Websockets support available.
+1776099732: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+1776099732: mosquitto version 2.1.2 terminating
+1776099732: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776099733: mosquitto version 2.1.2 starting
+1776099733: Config loaded from /mosquitto/config/mosquitto.conf.
+1776099733: Bridge support available.
+1776099733: Persistence support available.
+1776099733: TLS support available.
+1776099733: TLS-PSK support available.
+1776099733: Websockets support available.
+1776099733: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+1776099733: mosquitto version 2.1.2 terminating
+1776099733: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776099733: mosquitto version 2.1.2 starting
+1776099733: Config loaded from /mosquitto/config/mosquitto.conf.
+1776099733: Bridge support available.
+1776099733: Persistence support available.
+1776099733: TLS support available.
+1776099733: TLS-PSK support available.
+1776099733: Websockets support available.
+1776099733: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+1776099733: mosquitto version 2.1.2 terminating
+1776099733: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776099733: mosquitto version 2.1.2 starting
+1776099733: Config loaded from /mosquitto/config/mosquitto.conf.
+1776099733: Bridge support available.
+1776099733: Persistence support available.
+1776099733: TLS support available.
+1776099733: TLS-PSK support available.
+1776099733: Websockets support available.
+1776099733: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+1776099733: mosquitto version 2.1.2 terminating
+1776099733: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776099734: mosquitto version 2.1.2 starting
+1776099734: Config loaded from /mosquitto/config/mosquitto.conf.
+1776099734: Bridge support available.
+1776099734: Persistence support available.
+1776099734: TLS support available.
+1776099734: TLS-PSK support available.
+1776099734: Websockets support available.
+1776099734: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+1776099734: mosquitto version 2.1.2 terminating
+1776099734: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776099736: mosquitto version 2.1.2 starting
+1776099736: Config loaded from /mosquitto/config/mosquitto.conf.
+1776099736: Bridge support available.
+1776099736: Persistence support available.
+1776099736: TLS support available.
+1776099736: TLS-PSK support available.
+1776099736: Websockets support available.
+1776099736: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+1776099736: mosquitto version 2.1.2 terminating
+1776099736: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776099739: mosquitto version 2.1.2 starting
+1776099739: Config loaded from /mosquitto/config/mosquitto.conf.
+1776099739: Bridge support available.
+1776099739: Persistence support available.
+1776099739: TLS support available.
+1776099739: TLS-PSK support available.
+1776099739: Websockets support available.
+1776099739: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+1776099739: mosquitto version 2.1.2 terminating
+1776099739: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776099746: mosquitto version 2.1.2 starting
+1776099746: Config loaded from /mosquitto/config/mosquitto.conf.
+1776099746: Bridge support available.
+1776099746: Persistence support available.
+1776099746: TLS support available.
+1776099746: TLS-PSK support available.
+1776099746: Websockets support available.
+1776099746: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+1776099746: mosquitto version 2.1.2 terminating
+1776099746: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776099759: mosquitto version 2.1.2 starting
+1776099759: Config loaded from /mosquitto/config/mosquitto.conf.
+1776099759: Bridge support available.
+1776099759: Persistence support available.
+1776099759: TLS support available.
+1776099759: TLS-PSK support available.
+1776099759: Websockets support available.
+1776099759: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+1776099759: mosquitto version 2.1.2 terminating
+1776099759: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776099785: mosquitto version 2.1.2 starting
+1776099785: Config loaded from /mosquitto/config/mosquitto.conf.
+1776099785: Bridge support available.
+1776099785: Persistence support available.
+1776099785: TLS support available.
+1776099785: TLS-PSK support available.
+1776099785: Websockets support available.
+1776099785: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+1776099785: mosquitto version 2.1.2 terminating
+1776099785: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776099827: mosquitto version 2.1.2 starting
+1776099827: Config loaded from /mosquitto/config/mosquitto.conf.
+1776099827: Bridge support available.
+1776099827: Persistence support available.
+1776099827: TLS support available.
+1776099827: TLS-PSK support available.
+1776099827: Websockets support available.
+1776099827: Plugin builtin-security has registered to receive 'basic-auth' events.
+1776099827: Opening ipv4 listen socket on port 1883.
+1776099827: Opening ipv6 listen socket on port 1883.
+1776099827: mosquitto version 2.1.2 running
+1776100455: New connection from 172.67.68.90:20073 on port 1883.
+1776100455: New client connected from 172.67.68.90:20073 as 7yZ6xuIsDDFelpMtrcHLCp (p4, c1, k60, u'mqttuser').
+1776100455: Client 7yZ6xuIsDDFelpMtrcHLCp [172.67.68.90:20073] disconnected.
+1776100512: New connection from 172.67.68.90:18637 on port 1883.
+1776100512: New client connected from 172.67.68.90:18637 as 73wJgt78IhFkdArDCkwAjR (p4, c1, k60, u'mqttuser').
+1776100512: Client 73wJgt78IhFkdArDCkwAjR [172.67.68.90:18637] disconnected.
+1776100540: New connection from 172.67.68.90:19642 on port 1883.
+1776100540: New client connected from 172.67.68.90:19642 as 24P8mHLy1tUVLpkuUQTwQc (p4, c1, k60, u'mqttuser').
+1776100540: Client 24P8mHLy1tUVLpkuUQTwQc [172.67.68.90:19642] disconnected.
+1776101006: New connection from 172.67.68.90:38770 on port 1883.
+1776101006: New client connected from 172.67.68.90:38770 as webapp_898806 (p4, c1, k60, u'mqttuser').
+1776101349: New connection from 172.67.68.90:18851 on port 1883.
+1776101349: New client connected from 172.67.68.90:18851 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776101363: New connection from 172.67.68.90:33370 on port 1883.
+1776101363: Client ESP32_DOOR [172.67.68.90:18851] disconnected: session taken over.
+1776101363: New client connected from 172.67.68.90:33370 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776101550: New connection from ::1:54224 on port 1883.
+1776101550: New client connected from ::1:54224 as auto-81CE74F2-D6EE-F472-C4EF-7409BB77AFD7 (p4, c1, k60, u'mqttuser').
+1776101550: Client auto-81CE74F2-D6EE-F472-C4EF-7409BB77AFD7 [::1:54224] disconnected.
+1776101628: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776101671: New connection from 172.67.68.90:31696 on port 1883.
+1776101671: Client ESP32_DOOR [172.67.68.90:33370] disconnected: session taken over.
+1776101671: New client connected from 172.67.68.90:31696 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776101677: New connection from 172.67.68.90:17922 on port 1883.
+1776101677: Client ESP32_DOOR [172.67.68.90:31696] disconnected: session taken over.
+1776101677: New client connected from 172.67.68.90:17922 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776101682: New connection from 172.67.68.90:37439 on port 1883.
+1776101682: Client ESP32_DOOR [172.67.68.90:17922] disconnected: session taken over.
+1776101682: New client connected from 172.67.68.90:37439 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776101704: Client ESP32_DOOR [172.67.68.90:37439] disconnected: exceeded timeout.
+1776101753: New connection from 172.67.68.90:39951 on port 1883.
+1776101753: New client connected from 172.67.68.90:39951 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776101801: New connection from 172.67.68.90:49534 on port 1883.
+1776101801: Client ESP32_DOOR [172.67.68.90:39951] disconnected: session taken over.
+1776101801: New client connected from 172.67.68.90:49534 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776101874: Client ESP32_DOOR [172.67.68.90:49534] disconnected: exceeded timeout.
+1776101927: New connection from 172.67.68.90:55765 on port 1883.
+1776101927: New client connected from 172.67.68.90:55765 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776102348: Client ESP32_DOOR [172.67.68.90:55765] disconnected: exceeded timeout.
+1776102562: New connection from 172.67.68.90:61497 on port 1883.
+1776102562: New client connected from 172.67.68.90:61497 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776102566: New connection from 172.67.68.90:58895 on port 1883.
+1776102566: Client ESP32_VOICE [172.67.68.90:61497] disconnected: session taken over.
+1776102566: New client connected from 172.67.68.90:58895 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776102580: Client webapp_898806 [172.67.68.90:38770] disconnected: connection closed by client.
+1776102581: New connection from 172.67.68.90:29664 on port 1883.
+1776102581: New client connected from 172.67.68.90:29664 as webapp_8556d1 (p4, c1, k60, u'mqttuser').
+1776102631: New connection from 172.67.68.90:46410 on port 1883.
+1776102631: New client connected from 172.67.68.90:46410 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776102691: Client ESP32_VOICE [172.67.68.90:58895] disconnected: exceeded timeout.
+1776102732: New connection from 172.67.68.90:44381 on port 1883.
+1776102732: New client connected from 172.67.68.90:44381 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776102770: Client ESP32_DOOR [172.67.68.90:46410] disconnected: exceeded timeout.
+1776102894: New connection from 172.67.68.90:20507 on port 1883.
+1776102894: Client ESP32_VOICE [172.67.68.90:44381] disconnected: session taken over.
+1776102894: New client connected from 172.67.68.90:20507 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776102913: New connection from 172.67.68.90:44104 on port 1883.
+1776102913: New client connected from 172.67.68.90:44104 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776102939: Client ESP32_DOOR [172.67.68.90:44104] disconnected: exceeded timeout.
+1776102942: Client ESP32_VOICE [172.67.68.90:20507] disconnected: exceeded timeout.
+1776103063: New connection from 172.67.68.90:34791 on port 1883.
+1776103063: New client connected from 172.67.68.90:34791 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776103064: New connection from 172.67.68.90:45962 on port 1883.
+1776103064: New client connected from 172.67.68.90:45962 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776103069: New connection from 172.67.68.90:21395 on port 1883.
+1776103069: Client ESP32_DOOR [172.67.68.90:45962] disconnected: session taken over.
+1776103069: New client connected from 172.67.68.90:21395 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776103083: New connection from 172.67.68.90:16754 on port 1883.
+1776103083: Client ESP32_DOOR [172.67.68.90:21395] disconnected: session taken over.
+1776103083: New client connected from 172.67.68.90:16754 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776103097: Client ESP32_DOOR [172.67.68.90:16754] disconnected: connection closed by client.
+1776103097: New connection from 172.67.68.90:33106 on port 1883.
+1776103097: New client connected from 172.67.68.90:33106 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776103117: New connection from 172.67.68.90:22955 on port 1883.
+1776103117: Client ESP32_DOOR [172.67.68.90:33106] disconnected: session taken over.
+1776103117: New client connected from 172.67.68.90:22955 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776103117: New connection from 172.67.68.90:26894 on port 1883.
+1776103117: Client ESP32_VOICE [172.67.68.90:34791] disconnected: session taken over.
+1776103117: New client connected from 172.67.68.90:26894 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776103128: New connection from 172.67.68.90:58404 on port 1883.
+1776103128: Client ESP32_VOICE [172.67.68.90:26894] disconnected: session taken over.
+1776103128: New client connected from 172.67.68.90:58404 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776103129: New connection from 172.67.68.90:32631 on port 1883.
+1776103129: Client ESP32_DOOR [172.67.68.90:22955] disconnected: session taken over.
+1776103129: New client connected from 172.67.68.90:32631 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776103137: New connection from 172.67.68.90:60906 on port 1883.
+1776103137: Client ESP32_DOOR [172.67.68.90:32631] disconnected: session taken over.
+1776103137: New client connected from 172.67.68.90:60906 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776103142: New connection from 172.67.68.90:18724 on port 1883.
+1776103142: Client ESP32_DOOR [172.67.68.90:60906] disconnected: session taken over.
+1776103142: New client connected from 172.67.68.90:18724 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776103151: Client ESP32_VOICE [172.67.68.90:58404] disconnected: exceeded timeout.
+1776103164: Client ESP32_DOOR [172.67.68.90:18724] disconnected: exceeded timeout.
+1776103310: New connection from 172.67.68.90:53368 on port 1883.
+1776103310: New client connected from 172.67.68.90:53368 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776103311: New connection from 172.67.68.90:43181 on port 1883.
+1776103311: New client connected from 172.67.68.90:43181 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776103333: New connection from 172.67.68.90:34501 on port 1883.
+1776103333: Client ESP32_DOOR [172.67.68.90:43181] disconnected: session taken over.
+1776103333: New client connected from 172.67.68.90:34501 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776103346: New connection from 172.67.68.90:19501 on port 1883.
+1776103346: Client ESP32_DOOR [172.67.68.90:34501] disconnected: session taken over.
+1776103346: New client connected from 172.67.68.90:19501 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776103350: New connection from 172.67.68.90:36909 on port 1883.
+1776103350: Client ESP32_VOICE [172.67.68.90:53368] disconnected: session taken over.
+1776103350: New client connected from 172.67.68.90:36909 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776103420: Client ESP32_DOOR [172.67.68.90:19501] disconnected: exceeded timeout.
+1776103429: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776103432: Client ESP32_VOICE [172.67.68.90:36909] disconnected: exceeded timeout.
+1776103568: New connection from 172.67.68.90:63761 on port 1883.
+1776103568: New client connected from 172.67.68.90:63761 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776103569: New connection from 172.67.68.90:58294 on port 1883.
+1776103569: New client connected from 172.67.68.90:58294 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776103711: New connection from 172.67.68.90:25999 on port 1883.
+1776103711: Client ESP32_DOOR [172.67.68.90:58294] disconnected: session taken over.
+1776103711: New client connected from 172.67.68.90:25999 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776103712: New connection from 172.67.68.90:22201 on port 1883.
+1776103712: Client ESP32_VOICE [172.67.68.90:63761] disconnected: session taken over.
+1776103712: New client connected from 172.67.68.90:22201 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776103834: Client ESP32_DOOR [172.67.68.90:25999] disconnected: exceeded timeout.
+1776103839: Client ESP32_VOICE [172.67.68.90:22201] disconnected: exceeded timeout.
+1776104107: New connection from 172.67.68.90:61395 on port 1883.
+1776104107: New client connected from 172.67.68.90:61395 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776104107: New connection from 172.67.68.90:27413 on port 1883.
+1776104107: New client connected from 172.67.68.90:27413 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776104971: Client ESP32_VOICE [172.67.68.90:61395] disconnected: exceeded timeout.
+1776104977: Client ESP32_DOOR [172.67.68.90:27413] disconnected: exceeded timeout.
+1776105230: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776105604: New connection from 172.67.68.90:23665 on port 1883.
+1776105604: New client connected from 172.67.68.90:23665 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776105626: New connection from 172.67.68.90:65210 on port 1883.
+1776105626: New client connected from 172.67.68.90:65210 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776105633: Client ESP32_VOICE [172.67.68.90:65210] disconnected: connection closed by client.
+1776105633: New connection from 172.67.68.90:37933 on port 1883.
+1776105633: New client connected from 172.67.68.90:37933 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776105661: Client ESP32_VOICE [172.67.68.90:37933] disconnected: exceeded timeout.
+1776105747: Client ESP32_DOOR [172.67.68.90:23665] disconnected: exceeded timeout.
+1776105838: New connection from 172.67.68.90:45307 on port 1883.
+1776105838: New client connected from 172.67.68.90:45307 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776105855: New connection from 172.67.68.90:21554 on port 1883.
+1776105855: New client connected from 172.67.68.90:21554 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776106121: Client ESP32_VOICE [172.67.68.90:21554] disconnected: exceeded timeout.
+1776106828: Client ESP32_DOOR [172.67.68.90:45307] disconnected: exceeded timeout.
+1776107031: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776108832: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776110633: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776147573: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776147854: New connection from 172.67.68.90:43552 on port 1883.
+1776147854: New client connected from 172.67.68.90:43552 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776147865: New connection from 172.67.68.90:46857 on port 1883.
+1776147865: Client ESP32_DOOR [172.67.68.90:43552] disconnected: session taken over.
+1776147865: New client connected from 172.67.68.90:46857 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776147880: New connection from 172.67.68.90:27365 on port 1883.
+1776147880: New client connected from 172.67.68.90:27365 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776147893: New connection from 172.67.68.90:54824 on port 1883.
+1776147893: Client ESP32_DOOR [172.67.68.90:46857] disconnected: session taken over.
+1776147893: New client connected from 172.67.68.90:54824 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776147906: Client ESP32_VOICE [172.67.68.90:27365] disconnected: exceeded timeout.
+1776147925: New connection from 172.67.68.90:63542 on port 1883.
+1776147925: Client ESP32_DOOR [172.67.68.90:54824] disconnected: session taken over.
+1776147925: New client connected from 172.67.68.90:63542 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776147963: Client ESP32_DOOR [172.67.68.90:63542] disconnected: exceeded timeout.
+1776148012: New connection from 172.67.68.90:19601 on port 1883.
+1776148012: New client connected from 172.67.68.90:19601 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776148025: Client webapp_8556d1 [172.67.68.90:29664] disconnected: connection closed by client.
+1776148026: New connection from 172.67.68.90:23828 on port 1883.
+1776148026: New client connected from 172.67.68.90:23828 as webapp_0df735 (p4, c1, k60, u'mqttuser').
+1776148602: Client ESP32_DOOR [172.67.68.90:19601] disconnected: exceeded timeout.
+1776148653: New connection from 172.67.68.90:54042 on port 1883.
+1776148653: New client connected from 172.67.68.90:54042 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776148732: Client ESP32_DOOR [172.67.68.90:54042] disconnected: exceeded timeout.
+1776149051: New connection from 172.67.68.90:30524 on port 1883.
+1776149051: New client connected from 172.67.68.90:30524 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776149053: New connection from 172.67.68.90:23683 on port 1883.
+1776149053: New client connected from 172.67.68.90:23683 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776149129: Client ESP32_VOICE [172.67.68.90:23683] disconnected: exceeded timeout.
+1776149146: Client ESP32_DOOR [172.67.68.90:30524] disconnected: exceeded timeout.
+1776149374: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776149526: New connection from 172.67.68.90:35538 on port 1883.
+1776149526: New client connected from 172.67.68.90:35538 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776149579: Client ESP32_DOOR [172.67.68.90:35538] disconnected: exceeded timeout.
+1776151175: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776152976: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776153920: New connection from 172.67.68.90:48314 on port 1883.
+1776153920: New client connected from 172.67.68.90:48314 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776153950: New connection from 172.67.68.90:40624 on port 1883.
+1776153950: Client ESP32_DOOR [172.67.68.90:48314] disconnected: session taken over.
+1776153950: New client connected from 172.67.68.90:40624 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776154016: Client ESP32_DOOR [172.67.68.90:40624] disconnected: exceeded timeout.
+1776154056: New connection from 172.67.68.90:26518 on port 1883.
+1776154056: New client connected from 172.67.68.90:26518 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776154107: Client ESP32_DOOR [172.67.68.90:26518] disconnected: exceeded timeout.
+1776154125: New connection from 172.67.68.90:44043 on port 1883.
+1776154125: New client connected from 172.67.68.90:44043 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776154161: Client webapp_0df735 [172.67.68.90:23828] disconnected: connection closed by client.
+1776154162: New connection from 172.67.68.90:64292 on port 1883.
+1776154162: New client connected from 172.67.68.90:64292 as webapp_d693ee (p4, c1, k60, u'mqttuser').
+1776154591: Client ESP32_DOOR [172.67.68.90:44043] disconnected: exceeded timeout.
+1776154634: New connection from 172.67.68.90:65017 on port 1883.
+1776154634: New client connected from 172.67.68.90:65017 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776154777: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776155018: Client ESP32_DOOR [172.67.68.90:65017] disconnected: exceeded timeout.
+1776155093: Client webapp_d693ee [172.67.68.90:64292] disconnected: exceeded timeout.
+1776155491: New connection from 172.67.68.90:40963 on port 1883.
+1776155491: New client connected from 172.67.68.90:40963 as webapp_d693ee (p4, c1, k60, u'mqttuser').
+1776155498: New connection from 172.67.68.90:18224 on port 1883.
+1776155498: New client connected from 172.67.68.90:18224 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776155986: Client ESP32_DOOR [172.67.68.90:18224] disconnected: exceeded timeout.
+1776156130: New connection from 172.67.68.90:27589 on port 1883.
+1776156130: New client connected from 172.67.68.90:27589 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776156168: Client ESP32_DOOR [172.67.68.90:27589] disconnected: exceeded timeout.
+1776156216: New connection from 172.67.68.90:23894 on port 1883.
+1776156216: New client connected from 172.67.68.90:23894 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776156261: Client webapp_d693ee [172.67.68.90:40963] disconnected: connection closed by client.
+1776156261: New connection from 172.67.68.90:17125 on port 1883.
+1776156261: New client connected from 172.67.68.90:17125 as webapp_ebf109 (p4, c1, k60, u'mqttuser').
+1776156577: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776158378: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776159916: Client ESP32_DOOR [172.67.68.90:23894] disconnected: exceeded timeout.
+1776160179: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776160488: New connection from 172.67.68.90:62780 on port 1883.
+1776160488: New client connected from 172.67.68.90:62780 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776160502: New connection from 172.67.68.90:45548 on port 1883.
+1776160502: New client connected from 172.67.68.90:45548 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776160539: Client ESP32_DOOR [172.67.68.90:45548] disconnected: exceeded timeout.
+1776160612: New connection from 172.67.68.90:46643 on port 1883.
+1776160612: New client connected from 172.67.68.90:46643 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776160654: Client ESP32_DOOR [172.67.68.90:46643] disconnected: connection closed by client.
+1776160661: Client ESP32_VOICE [172.67.68.90:62780] disconnected: exceeded timeout.
+1776160665: New connection from 172.67.68.90:47056 on port 1883.
+1776160665: New client connected from 172.67.68.90:47056 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776160707: Client ESP32_DOOR [172.67.68.90:47056] disconnected: connection closed by client.
+1776160717: New connection from 172.67.68.90:16468 on port 1883.
+1776160717: New client connected from 172.67.68.90:16468 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776160761: Client ESP32_DOOR [172.67.68.90:16468] disconnected: connection closed by client.
+1776160771: New connection from 172.67.68.90:36281 on port 1883.
+1776160771: New client connected from 172.67.68.90:36281 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776160815: Client ESP32_DOOR [172.67.68.90:36281] disconnected: exceeded timeout.
+1776160825: New connection from 172.67.68.90:57908 on port 1883.
+1776160825: New client connected from 172.67.68.90:57908 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776160867: Client ESP32_DOOR [172.67.68.90:57908] disconnected: connection closed by client.
+1776160877: New connection from 172.67.68.90:43189 on port 1883.
+1776160877: New client connected from 172.67.68.90:43189 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776160920: Client ESP32_DOOR [172.67.68.90:43189] disconnected: exceeded timeout.
+1776161103: New connection from 172.67.68.90:60325 on port 1883.
+1776161103: New client connected from 172.67.68.90:60325 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776161145: Client ESP32_DOOR [172.67.68.90:60325] disconnected: connection closed by client.
+1776161183: New connection from 172.67.68.90:49798 on port 1883.
+1776161183: New client connected from 172.67.68.90:49798 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776161214: Client webapp_ebf109 [172.67.68.90:17125] disconnected: connection closed by client.
+1776161214: New connection from 172.67.68.90:54531 on port 1883.
+1776161214: New client connected from 172.67.68.90:54531 as webapp_c39680 (p4, c1, k60, u'mqttuser').
+1776161294: Client ESP32_DOOR [172.67.68.90:49798] disconnected: exceeded timeout.
+1776161294: New connection from 172.67.68.90:33712 on port 1883.
+1776161294: New client connected from 172.67.68.90:33712 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776161326: Client ESP32_VOICE [172.67.68.90:33712] disconnected: exceeded timeout.
+1776161548: New connection from 172.67.68.90:51239 on port 1883.
+1776161548: New client connected from 172.67.68.90:51239 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776161635: New connection from 172.67.68.90:53360 on port 1883.
+1776161635: New client connected from 172.67.68.90:53360 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776161980: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776162189: Client ESP32_DOOR [172.67.68.90:53360] disconnected: exceeded timeout.
+1776162213: New connection from 172.67.68.90:59521 on port 1883.
+1776162213: Client ESP32_VOICE [172.67.68.90:51239] disconnected: session taken over.
+1776162213: New client connected from 172.67.68.90:59521 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776162241: Client ESP32_VOICE [172.67.68.90:59521] disconnected: exceeded timeout.
+1776162262: New connection from 172.67.68.90:36230 on port 1883.
+1776162262: New client connected from 172.67.68.90:36230 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776162288: Client ESP32_VOICE [172.67.68.90:36230] disconnected: exceeded timeout.
+1776162415: New connection from 172.67.68.90:24030 on port 1883.
+1776162415: New client connected from 172.67.68.90:24030 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776162630: Client ESP32_DOOR [172.67.68.90:24030] disconnected: exceeded timeout.
+1776162631: New connection from 172.67.68.90:29786 on port 1883.
+1776162631: New client connected from 172.67.68.90:29786 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776162671: Client ESP32_DOOR [172.67.68.90:29786] disconnected: connection closed by client.
+1776162681: New connection from 172.67.68.90:53119 on port 1883.
+1776162681: New client connected from 172.67.68.90:53119 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776162721: Client ESP32_DOOR [172.67.68.90:53119] disconnected: connection closed by client.
+1776162731: New connection from 172.67.68.90:52782 on port 1883.
+1776162731: New client connected from 172.67.68.90:52782 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776162771: Client ESP32_DOOR [172.67.68.90:52782] disconnected: connection closed by client.
+1776162780: New connection from 172.67.68.90:53991 on port 1883.
+1776162780: New client connected from 172.67.68.90:53991 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776162820: Client ESP32_DOOR [172.67.68.90:53991] disconnected: connection closed by client.
+1776162831: New connection from 172.67.68.90:39878 on port 1883.
+1776162831: New client connected from 172.67.68.90:39878 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776162871: Client ESP32_DOOR [172.67.68.90:39878] disconnected: connection closed by client.
+1776162881: New connection from 172.67.68.90:24083 on port 1883.
+1776162881: New client connected from 172.67.68.90:24083 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776162922: Client ESP32_DOOR [172.67.68.90:24083] disconnected: connection closed by client.
+1776162932: New connection from 172.67.68.90:65425 on port 1883.
+1776162932: New client connected from 172.67.68.90:65425 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776162972: Client ESP32_DOOR [172.67.68.90:65425] disconnected: connection closed by client.
+1776162982: New connection from 172.67.68.90:50258 on port 1883.
+1776162982: New client connected from 172.67.68.90:50258 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163022: Client ESP32_DOOR [172.67.68.90:50258] disconnected: connection closed by client.
+1776163032: New connection from 172.67.68.90:58152 on port 1883.
+1776163032: New client connected from 172.67.68.90:58152 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163073: Client ESP32_DOOR [172.67.68.90:58152] disconnected: connection closed by client.
+1776163083: New connection from 172.67.68.90:16322 on port 1883.
+1776163083: New client connected from 172.67.68.90:16322 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163123: Client ESP32_DOOR [172.67.68.90:16322] disconnected: connection closed by client.
+1776163133: New connection from 172.67.68.90:58353 on port 1883.
+1776163133: New client connected from 172.67.68.90:58353 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163173: Client ESP32_DOOR [172.67.68.90:58353] disconnected: connection closed by client.
+1776163183: New connection from 172.67.68.90:17600 on port 1883.
+1776163183: New client connected from 172.67.68.90:17600 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163223: Client ESP32_DOOR [172.67.68.90:17600] disconnected: connection closed by client.
+1776163233: New connection from 172.67.68.90:60584 on port 1883.
+1776163233: New client connected from 172.67.68.90:60584 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163273: Client ESP32_DOOR [172.67.68.90:60584] disconnected: connection closed by client.
+1776163283: New connection from 172.67.68.90:54807 on port 1883.
+1776163283: New client connected from 172.67.68.90:54807 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163323: Client ESP32_DOOR [172.67.68.90:54807] disconnected: connection closed by client.
+1776163333: New connection from 172.67.68.90:23316 on port 1883.
+1776163333: New client connected from 172.67.68.90:23316 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163372: Client ESP32_DOOR [172.67.68.90:23316] disconnected: connection closed by client.
+1776163382: New connection from 172.67.68.90:46473 on port 1883.
+1776163382: New client connected from 172.67.68.90:46473 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163422: Client ESP32_DOOR [172.67.68.90:46473] disconnected: connection closed by client.
+1776163432: New connection from 172.67.68.90:60556 on port 1883.
+1776163432: New client connected from 172.67.68.90:60556 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163472: Client ESP32_DOOR [172.67.68.90:60556] disconnected: connection closed by client.
+1776163482: New connection from 172.67.68.90:65335 on port 1883.
+1776163482: New client connected from 172.67.68.90:65335 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163522: Client ESP32_DOOR [172.67.68.90:65335] disconnected: connection closed by client.
+1776163532: New connection from 172.67.68.90:38467 on port 1883.
+1776163532: New client connected from 172.67.68.90:38467 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163572: Client ESP32_DOOR [172.67.68.90:38467] disconnected: connection closed by client.
+1776163582: New connection from 172.67.68.90:17914 on port 1883.
+1776163582: New client connected from 172.67.68.90:17914 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163621: Client ESP32_DOOR [172.67.68.90:17914] disconnected: connection closed by client.
+1776163631: New connection from 172.67.68.90:30873 on port 1883.
+1776163631: New client connected from 172.67.68.90:30873 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163671: Client ESP32_DOOR [172.67.68.90:30873] disconnected: connection closed by client.
+1776163681: New connection from 172.67.68.90:36125 on port 1883.
+1776163681: New client connected from 172.67.68.90:36125 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163721: Client ESP32_DOOR [172.67.68.90:36125] disconnected: connection closed by client.
+1776163731: New connection from 172.67.68.90:62189 on port 1883.
+1776163731: New client connected from 172.67.68.90:62189 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163771: Client ESP32_DOOR [172.67.68.90:62189] disconnected: connection closed by client.
+1776163781: New connection from 172.67.68.90:37890 on port 1883.
+1776163781: New client connected from 172.67.68.90:37890 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163781: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776163820: Client ESP32_DOOR [172.67.68.90:37890] disconnected: connection closed by client.
+1776163830: New connection from 172.67.68.90:16319 on port 1883.
+1776163830: New client connected from 172.67.68.90:16319 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163870: Client ESP32_DOOR [172.67.68.90:16319] disconnected: connection closed by client.
+1776163880: New connection from 172.67.68.90:45935 on port 1883.
+1776163880: New client connected from 172.67.68.90:45935 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163920: Client ESP32_DOOR [172.67.68.90:45935] disconnected: connection closed by client.
+1776163930: New connection from 172.67.68.90:55463 on port 1883.
+1776163930: New client connected from 172.67.68.90:55463 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776163970: Client ESP32_DOOR [172.67.68.90:55463] disconnected: connection closed by client.
+1776163980: New connection from 172.67.68.90:36890 on port 1883.
+1776163980: New client connected from 172.67.68.90:36890 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776164020: Client ESP32_DOOR [172.67.68.90:36890] disconnected: connection closed by client.
+1776164030: New connection from 172.67.68.90:26814 on port 1883.
+1776164030: New client connected from 172.67.68.90:26814 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776164070: Client ESP32_DOOR [172.67.68.90:26814] disconnected: connection closed by client.
+1776164079: New connection from 172.67.68.90:32963 on port 1883.
+1776164079: New client connected from 172.67.68.90:32963 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776164119: Client ESP32_DOOR [172.67.68.90:32963] disconnected: connection closed by client.
+1776164129: New connection from 172.67.68.90:48192 on port 1883.
+1776164129: New client connected from 172.67.68.90:48192 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776164169: Client ESP32_DOOR [172.67.68.90:48192] disconnected: connection closed by client.
+1776164179: New connection from 172.67.68.90:60931 on port 1883.
+1776164179: New client connected from 172.67.68.90:60931 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776164219: Client ESP32_DOOR [172.67.68.90:60931] disconnected: connection closed by client.
+1776164229: New connection from 172.67.68.90:42597 on port 1883.
+1776164229: New client connected from 172.67.68.90:42597 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776164269: Client ESP32_DOOR [172.67.68.90:42597] disconnected: connection closed by client.
+1776164279: New connection from 172.67.68.90:20589 on port 1883.
+1776164279: New client connected from 172.67.68.90:20589 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776164319: Client ESP32_DOOR [172.67.68.90:20589] disconnected: connection closed by client.
+1776164329: New connection from 172.67.68.90:26905 on port 1883.
+1776164329: New client connected from 172.67.68.90:26905 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776164368: Client ESP32_DOOR [172.67.68.90:26905] disconnected: connection closed by client.
+1776164378: New connection from 172.67.68.90:23549 on port 1883.
+1776164378: New client connected from 172.67.68.90:23549 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776164417: Client ESP32_DOOR [172.67.68.90:23549] disconnected: connection closed by client.
+1776164417: New connection from 172.67.68.90:17226 on port 1883.
+1776164417: New client connected from 172.67.68.90:17226 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776164420: New connection from 172.67.68.90:33720 on port 1883.
+1776164420: New client connected from 172.67.68.90:33720 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776164447: Client ESP32_VOICE [172.67.68.90:33720] disconnected: exceeded timeout.
+1776164587: New connection from 172.67.68.90:30386 on port 1883.
+1776164587: Client ESP32_DOOR [172.67.68.90:17226] disconnected: session taken over.
+1776164587: New client connected from 172.67.68.90:30386 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776164706: Client ESP32_DOOR [172.67.68.90:30386] disconnected: exceeded timeout.
+1776164707: New connection from 172.67.68.90:45289 on port 1883.
+1776164707: New client connected from 172.67.68.90:45289 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776164747: Client ESP32_DOOR [172.67.68.90:45289] disconnected: connection closed by client.
+1776164748: New connection from 172.67.68.90:26621 on port 1883.
+1776164748: New client connected from 172.67.68.90:26621 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776164751: New connection from 172.67.68.90:26388 on port 1883.
+1776164751: New client connected from 172.67.68.90:26388 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776164801: Client ESP32_DOOR [172.67.68.90:26621] disconnected: exceeded timeout.
+1776164852: New connection from 172.67.68.90:58619 on port 1883.
+1776164852: New client connected from 172.67.68.90:58619 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776165211: Client ESP32_VOICE [172.67.68.90:26388] disconnected: exceeded timeout.
+1776165282: New connection from 172.67.68.90:17699 on port 1883.
+1776165282: New client connected from 172.67.68.90:17699 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776165582: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776165656: Client ESP32_DOOR [172.67.68.90:58619] disconnected: exceeded timeout.
+1776165701: New connection from 172.67.68.90:47279 on port 1883.
+1776165701: New client connected from 172.67.68.90:47279 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776165974: New connection from 172.67.68.90:34946 on port 1883.
+1776165974: Client ESP32_DOOR [172.67.68.90:47279] disconnected: session taken over.
+1776165974: New client connected from 172.67.68.90:34946 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776166123: New connection from 172.67.68.90:17928 on port 1883.
+1776166123: Client ESP32_DOOR [172.67.68.90:34946] disconnected: session taken over.
+1776166123: New client connected from 172.67.68.90:17928 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776166181: New connection from 172.67.68.90:27629 on port 1883.
+1776166181: Client ESP32_DOOR [172.67.68.90:17928] disconnected: session taken over.
+1776166181: New client connected from 172.67.68.90:27629 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776166258: Client ESP32_DOOR [172.67.68.90:27629] disconnected: exceeded timeout.
+1776166301: New connection from 172.67.68.90:64961 on port 1883.
+1776166301: New client connected from 172.67.68.90:64961 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776166921: New connection from 172.67.68.90:22328 on port 1883.
+1776166921: Client ESP32_VOICE [172.67.68.90:17699] disconnected: session taken over.
+1776166921: New client connected from 172.67.68.90:22328 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776166935: New connection from 172.67.68.90:40382 on port 1883.
+1776166935: Client ESP32_VOICE [172.67.68.90:22328] disconnected: session taken over.
+1776166935: New client connected from 172.67.68.90:40382 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776166958: Client ESP32_VOICE [172.67.68.90:40382] disconnected: exceeded timeout.
+1776166966: New connection from 172.67.68.90:61294 on port 1883.
+1776166966: New client connected from 172.67.68.90:61294 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776167383: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776169184: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776169207: New connection from 172.67.68.90:25797 on port 1883.
+1776169207: Client ESP32_VOICE [172.67.68.90:61294] disconnected: session taken over.
+1776169207: New client connected from 172.67.68.90:25797 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169208: New connection from 172.67.68.90:49698 on port 1883.
+1776169208: Client ESP32_VOICE [172.67.68.90:25797] disconnected: session taken over.
+1776169208: New client connected from 172.67.68.90:49698 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169210: New connection from 172.67.68.90:20557 on port 1883.
+1776169210: Client ESP32_VOICE [172.67.68.90:49698] disconnected: session taken over.
+1776169210: New client connected from 172.67.68.90:20557 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169213: New connection from 172.67.68.90:23129 on port 1883.
+1776169213: Client ESP32_VOICE [172.67.68.90:20557] disconnected: session taken over.
+1776169213: New client connected from 172.67.68.90:23129 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169215: New connection from 172.67.68.90:58281 on port 1883.
+1776169215: Client ESP32_VOICE [172.67.68.90:23129] disconnected: session taken over.
+1776169215: New client connected from 172.67.68.90:58281 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169218: New connection from 172.67.68.90:64349 on port 1883.
+1776169218: Client ESP32_VOICE [172.67.68.90:58281] disconnected: session taken over.
+1776169218: New client connected from 172.67.68.90:64349 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169220: New connection from 172.67.68.90:44052 on port 1883.
+1776169220: Client ESP32_VOICE [172.67.68.90:64349] disconnected: session taken over.
+1776169220: New client connected from 172.67.68.90:44052 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169223: New connection from 172.67.68.90:40221 on port 1883.
+1776169223: Client ESP32_VOICE [172.67.68.90:44052] disconnected: session taken over.
+1776169223: New client connected from 172.67.68.90:40221 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169225: New connection from 172.67.68.90:44726 on port 1883.
+1776169225: Client ESP32_VOICE [172.67.68.90:40221] disconnected: session taken over.
+1776169225: New client connected from 172.67.68.90:44726 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169228: New connection from 172.67.68.90:31758 on port 1883.
+1776169228: Client ESP32_VOICE [172.67.68.90:44726] disconnected: session taken over.
+1776169228: New client connected from 172.67.68.90:31758 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169230: New connection from 172.67.68.90:59661 on port 1883.
+1776169230: Client ESP32_VOICE [172.67.68.90:31758] disconnected: session taken over.
+1776169230: New client connected from 172.67.68.90:59661 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169233: New connection from 172.67.68.90:51581 on port 1883.
+1776169233: Client ESP32_VOICE [172.67.68.90:59661] disconnected: session taken over.
+1776169233: New client connected from 172.67.68.90:51581 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169235: New connection from 172.67.68.90:43157 on port 1883.
+1776169235: Client ESP32_VOICE [172.67.68.90:51581] disconnected: session taken over.
+1776169235: New client connected from 172.67.68.90:43157 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169238: New connection from 172.67.68.90:64588 on port 1883.
+1776169238: Client ESP32_VOICE [172.67.68.90:43157] disconnected: session taken over.
+1776169238: New client connected from 172.67.68.90:64588 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169240: New connection from 172.67.68.90:51900 on port 1883.
+1776169240: Client ESP32_VOICE [172.67.68.90:64588] disconnected: session taken over.
+1776169240: New client connected from 172.67.68.90:51900 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169243: New connection from 172.67.68.90:63711 on port 1883.
+1776169243: Client ESP32_VOICE [172.67.68.90:51900] disconnected: session taken over.
+1776169243: New client connected from 172.67.68.90:63711 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169245: New connection from 172.67.68.90:54238 on port 1883.
+1776169245: Client ESP32_VOICE [172.67.68.90:63711] disconnected: session taken over.
+1776169245: New client connected from 172.67.68.90:54238 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169248: New connection from 172.67.68.90:56619 on port 1883.
+1776169248: Client ESP32_VOICE [172.67.68.90:54238] disconnected: session taken over.
+1776169248: New client connected from 172.67.68.90:56619 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169250: New connection from 172.67.68.90:42404 on port 1883.
+1776169250: Client ESP32_VOICE [172.67.68.90:56619] disconnected: session taken over.
+1776169250: New client connected from 172.67.68.90:42404 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169253: New connection from 172.67.68.90:64506 on port 1883.
+1776169253: Client ESP32_VOICE [172.67.68.90:42404] disconnected: session taken over.
+1776169253: New client connected from 172.67.68.90:64506 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169255: New connection from 172.67.68.90:29163 on port 1883.
+1776169255: Client ESP32_VOICE [172.67.68.90:64506] disconnected: session taken over.
+1776169255: New client connected from 172.67.68.90:29163 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169258: New connection from 172.67.68.90:18105 on port 1883.
+1776169258: Client ESP32_VOICE [172.67.68.90:29163] disconnected: session taken over.
+1776169258: New client connected from 172.67.68.90:18105 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169260: New connection from 172.67.68.90:28397 on port 1883.
+1776169260: Client ESP32_VOICE [172.67.68.90:18105] disconnected: session taken over.
+1776169260: New client connected from 172.67.68.90:28397 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169263: New connection from 172.67.68.90:27793 on port 1883.
+1776169263: Client ESP32_VOICE [172.67.68.90:28397] disconnected: session taken over.
+1776169263: New client connected from 172.67.68.90:27793 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169265: New connection from 172.67.68.90:26876 on port 1883.
+1776169265: Client ESP32_VOICE [172.67.68.90:27793] disconnected: session taken over.
+1776169265: New client connected from 172.67.68.90:26876 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169268: New connection from 172.67.68.90:46749 on port 1883.
+1776169268: Client ESP32_VOICE [172.67.68.90:26876] disconnected: session taken over.
+1776169268: New client connected from 172.67.68.90:46749 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169270: New connection from 172.67.68.90:19502 on port 1883.
+1776169270: Client ESP32_VOICE [172.67.68.90:46749] disconnected: session taken over.
+1776169270: New client connected from 172.67.68.90:19502 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169273: New connection from 172.67.68.90:36920 on port 1883.
+1776169273: Client ESP32_VOICE [172.67.68.90:19502] disconnected: session taken over.
+1776169273: New client connected from 172.67.68.90:36920 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169276: New connection from 172.67.68.90:17805 on port 1883.
+1776169276: Client ESP32_VOICE [172.67.68.90:36920] disconnected: session taken over.
+1776169276: New client connected from 172.67.68.90:17805 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169278: New connection from 172.67.68.90:53837 on port 1883.
+1776169278: Client ESP32_VOICE [172.67.68.90:17805] disconnected: session taken over.
+1776169278: New client connected from 172.67.68.90:53837 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169281: New connection from 172.67.68.90:61625 on port 1883.
+1776169281: Client ESP32_VOICE [172.67.68.90:53837] disconnected: session taken over.
+1776169281: New client connected from 172.67.68.90:61625 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169284: New connection from 172.67.68.90:38366 on port 1883.
+1776169284: Client ESP32_VOICE [172.67.68.90:61625] disconnected: session taken over.
+1776169284: New client connected from 172.67.68.90:38366 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169286: New connection from 172.67.68.90:28613 on port 1883.
+1776169286: Client ESP32_VOICE [172.67.68.90:38366] disconnected: session taken over.
+1776169286: New client connected from 172.67.68.90:28613 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169289: New connection from 172.67.68.90:37043 on port 1883.
+1776169289: Client ESP32_VOICE [172.67.68.90:28613] disconnected: session taken over.
+1776169289: New client connected from 172.67.68.90:37043 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169291: New connection from 172.67.68.90:17079 on port 1883.
+1776169291: Client ESP32_VOICE [172.67.68.90:37043] disconnected: session taken over.
+1776169291: New client connected from 172.67.68.90:17079 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169294: New connection from 172.67.68.90:50864 on port 1883.
+1776169294: Client ESP32_VOICE [172.67.68.90:17079] disconnected: session taken over.
+1776169294: New client connected from 172.67.68.90:50864 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169296: New connection from 172.67.68.90:23389 on port 1883.
+1776169296: Client ESP32_VOICE [172.67.68.90:50864] disconnected: session taken over.
+1776169296: New client connected from 172.67.68.90:23389 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169299: New connection from 172.67.68.90:57536 on port 1883.
+1776169299: Client ESP32_VOICE [172.67.68.90:23389] disconnected: session taken over.
+1776169299: New client connected from 172.67.68.90:57536 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169301: New connection from 172.67.68.90:26886 on port 1883.
+1776169301: Client ESP32_VOICE [172.67.68.90:57536] disconnected: session taken over.
+1776169301: New client connected from 172.67.68.90:26886 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169304: New connection from 172.67.68.90:23388 on port 1883.
+1776169304: Client ESP32_VOICE [172.67.68.90:26886] disconnected: session taken over.
+1776169304: New client connected from 172.67.68.90:23388 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169306: New connection from 172.67.68.90:54245 on port 1883.
+1776169306: Client ESP32_VOICE [172.67.68.90:23388] disconnected: session taken over.
+1776169306: New client connected from 172.67.68.90:54245 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169309: New connection from 172.67.68.90:33178 on port 1883.
+1776169309: Client ESP32_VOICE [172.67.68.90:54245] disconnected: session taken over.
+1776169309: New client connected from 172.67.68.90:33178 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169311: New connection from 172.67.68.90:32430 on port 1883.
+1776169311: Client ESP32_VOICE [172.67.68.90:33178] disconnected: session taken over.
+1776169311: New client connected from 172.67.68.90:32430 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169314: New connection from 172.67.68.90:44251 on port 1883.
+1776169314: Client ESP32_VOICE [172.67.68.90:32430] disconnected: session taken over.
+1776169314: New client connected from 172.67.68.90:44251 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169316: New connection from 172.67.68.90:55940 on port 1883.
+1776169316: Client ESP32_VOICE [172.67.68.90:44251] disconnected: session taken over.
+1776169316: New client connected from 172.67.68.90:55940 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169319: New connection from 172.67.68.90:18976 on port 1883.
+1776169319: Client ESP32_VOICE [172.67.68.90:55940] disconnected: session taken over.
+1776169319: New client connected from 172.67.68.90:18976 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169321: New connection from 172.67.68.90:48573 on port 1883.
+1776169321: Client ESP32_VOICE [172.67.68.90:18976] disconnected: session taken over.
+1776169321: New client connected from 172.67.68.90:48573 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169324: New connection from 172.67.68.90:47752 on port 1883.
+1776169324: Client ESP32_VOICE [172.67.68.90:48573] disconnected: session taken over.
+1776169324: New client connected from 172.67.68.90:47752 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169326: New connection from 172.67.68.90:62517 on port 1883.
+1776169326: Client ESP32_VOICE [172.67.68.90:47752] disconnected: session taken over.
+1776169326: New client connected from 172.67.68.90:62517 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169329: New connection from 172.67.68.90:43125 on port 1883.
+1776169329: Client ESP32_VOICE [172.67.68.90:62517] disconnected: session taken over.
+1776169329: New client connected from 172.67.68.90:43125 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169330: New connection from 172.67.68.90:42288 on port 1883.
+1776169330: Client 172.67.68.90 [172.67.68.90:42288] disconnected: connection closed by client.
+1776169331: New connection from 172.67.68.90:24155 on port 1883.
+1776169331: Client ESP32_VOICE [172.67.68.90:43125] disconnected: session taken over.
+1776169331: New client connected from 172.67.68.90:24155 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169334: New connection from 172.67.68.90:49397 on port 1883.
+1776169334: Client ESP32_VOICE [172.67.68.90:24155] disconnected: session taken over.
+1776169334: New client connected from 172.67.68.90:49397 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169337: New connection from 172.67.68.90:19635 on port 1883.
+1776169337: Client ESP32_VOICE [172.67.68.90:49397] disconnected: session taken over.
+1776169337: New client connected from 172.67.68.90:19635 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169339: New connection from 172.67.68.90:36065 on port 1883.
+1776169339: Client ESP32_VOICE [172.67.68.90:19635] disconnected: session taken over.
+1776169339: New client connected from 172.67.68.90:36065 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169342: New connection from 172.67.68.90:51190 on port 1883.
+1776169342: Client ESP32_VOICE [172.67.68.90:36065] disconnected: session taken over.
+1776169342: New client connected from 172.67.68.90:51190 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169345: New connection from 172.67.68.90:40248 on port 1883.
+1776169345: Client ESP32_VOICE [172.67.68.90:51190] disconnected: session taken over.
+1776169345: New client connected from 172.67.68.90:40248 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169347: New connection from 172.67.68.90:55814 on port 1883.
+1776169347: Client ESP32_VOICE [172.67.68.90:40248] disconnected: session taken over.
+1776169347: New client connected from 172.67.68.90:55814 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169350: New connection from 172.67.68.90:59414 on port 1883.
+1776169350: Client ESP32_VOICE [172.67.68.90:55814] disconnected: session taken over.
+1776169350: New client connected from 172.67.68.90:59414 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169350: Client ESP32_DOOR [172.67.68.90:64961] disconnected: connection closed by client.
+1776169350: Client webapp_c39680 [172.67.68.90:54531] disconnected: connection closed by client.
+1776169350: mosquitto version 2.1.2 terminating
+1776169350: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776169408: mosquitto version 2.1.2 starting
+1776169408: Config loaded from /mosquitto/config/mosquitto.conf.
+1776169408: Bridge support available.
+1776169408: Persistence support available.
+1776169408: TLS support available.
+1776169408: TLS-PSK support available.
+1776169408: Websockets support available.
+1776169408: Plugin builtin-security has registered to receive 'basic-auth' events.
+1776169408: Opening ipv4 listen socket on port 1883.
+1776169408: Opening ipv6 listen socket on port 1883.
+1776169408: mosquitto version 2.1.2 running
+1776169408: New connection from 172.18.0.1:61248 on port 1883.
+1776169408: New client connected from 172.18.0.1:61248 as webapp_3653d2 (p4, c1, k60, u'mqttuser').
+1776169409: New connection from 172.18.0.1:61258 on port 1883.
+1776169409: New client connected from 172.18.0.1:61258 as webapp_79d406 (p4, c1, k60, u'mqttuser').
+1776169411: New connection from 172.18.0.1:61272 on port 1883.
+1776169411: New client connected from 172.18.0.1:61272 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169411: New connection from 172.18.0.1:61286 on port 1883.
+1776169411: New client connected from 172.18.0.1:61286 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776169412: New connection from 172.18.0.1:61302 on port 1883.
+1776169412: Client ESP32_VOICE [172.18.0.1:61272] disconnected: session taken over.
+1776169412: New client connected from 172.18.0.1:61302 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169415: New connection from 172.18.0.1:61306 on port 1883.
+1776169415: Client ESP32_VOICE [172.18.0.1:61302] disconnected: session taken over.
+1776169415: New client connected from 172.18.0.1:61306 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169418: New connection from 172.18.0.1:58500 on port 1883.
+1776169418: Client ESP32_VOICE [172.18.0.1:61306] disconnected: session taken over.
+1776169418: New client connected from 172.18.0.1:58500 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169420: New connection from 172.18.0.1:58506 on port 1883.
+1776169420: Client ESP32_VOICE [172.18.0.1:58500] disconnected: session taken over.
+1776169420: New client connected from 172.18.0.1:58506 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169423: New connection from 172.18.0.1:58522 on port 1883.
+1776169423: Client ESP32_VOICE [172.18.0.1:58506] disconnected: session taken over.
+1776169423: New client connected from 172.18.0.1:58522 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169426: New connection from 172.18.0.1:58528 on port 1883.
+1776169426: Client ESP32_VOICE [172.18.0.1:58522] disconnected: session taken over.
+1776169426: New client connected from 172.18.0.1:58528 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169428: New connection from 172.18.0.1:61192 on port 1883.
+1776169428: Client ESP32_VOICE [172.18.0.1:58528] disconnected: session taken over.
+1776169428: New client connected from 172.18.0.1:61192 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169431: New connection from 172.18.0.1:61204 on port 1883.
+1776169431: Client ESP32_VOICE [172.18.0.1:61192] disconnected: session taken over.
+1776169431: New client connected from 172.18.0.1:61204 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169433: New connection from 172.18.0.1:61220 on port 1883.
+1776169433: Client ESP32_VOICE [172.18.0.1:61204] disconnected: session taken over.
+1776169433: New client connected from 172.18.0.1:61220 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169436: New connection from 172.18.0.1:61226 on port 1883.
+1776169436: Client ESP32_VOICE [172.18.0.1:61220] disconnected: session taken over.
+1776169436: New client connected from 172.18.0.1:61226 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169438: New connection from 172.18.0.1:60680 on port 1883.
+1776169438: Client ESP32_VOICE [172.18.0.1:61226] disconnected: session taken over.
+1776169438: New client connected from 172.18.0.1:60680 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169441: New connection from 172.18.0.1:60694 on port 1883.
+1776169441: Client ESP32_VOICE [172.18.0.1:60680] disconnected: session taken over.
+1776169441: New client connected from 172.18.0.1:60694 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169443: New connection from 172.18.0.1:60700 on port 1883.
+1776169443: Client ESP32_VOICE [172.18.0.1:60694] disconnected: session taken over.
+1776169443: New client connected from 172.18.0.1:60700 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169446: New connection from 172.18.0.1:60704 on port 1883.
+1776169446: Client ESP32_VOICE [172.18.0.1:60700] disconnected: session taken over.
+1776169446: New client connected from 172.18.0.1:60704 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169448: New connection from 172.18.0.1:63492 on port 1883.
+1776169448: Client ESP32_VOICE [172.18.0.1:60704] disconnected: session taken over.
+1776169448: New client connected from 172.18.0.1:63492 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169451: New connection from 172.18.0.1:63496 on port 1883.
+1776169451: Client ESP32_VOICE [172.18.0.1:63492] disconnected: session taken over.
+1776169451: New client connected from 172.18.0.1:63496 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169453: New connection from 172.18.0.1:63506 on port 1883.
+1776169453: Client ESP32_VOICE [172.18.0.1:63496] disconnected: session taken over.
+1776169453: New client connected from 172.18.0.1:63506 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169456: New connection from 172.18.0.1:63516 on port 1883.
+1776169456: Client ESP32_VOICE [172.18.0.1:63506] disconnected: session taken over.
+1776169456: New client connected from 172.18.0.1:63516 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169458: New connection from 172.18.0.1:60200 on port 1883.
+1776169458: Client ESP32_VOICE [172.18.0.1:63516] disconnected: session taken over.
+1776169458: New client connected from 172.18.0.1:60200 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169461: New connection from 172.18.0.1:60204 on port 1883.
+1776169461: Client ESP32_VOICE [172.18.0.1:60200] disconnected: session taken over.
+1776169461: New client connected from 172.18.0.1:60204 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169463: New connection from 172.18.0.1:60208 on port 1883.
+1776169463: Client ESP32_VOICE [172.18.0.1:60204] disconnected: session taken over.
+1776169463: New client connected from 172.18.0.1:60208 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169466: New connection from 172.18.0.1:60216 on port 1883.
+1776169466: Client ESP32_VOICE [172.18.0.1:60208] disconnected: session taken over.
+1776169466: New client connected from 172.18.0.1:60216 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169469: New connection from 172.18.0.1:60460 on port 1883.
+1776169469: Client ESP32_VOICE [172.18.0.1:60216] disconnected: session taken over.
+1776169469: New client connected from 172.18.0.1:60460 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169471: New connection from 172.18.0.1:60472 on port 1883.
+1776169471: Client ESP32_VOICE [172.18.0.1:60460] disconnected: session taken over.
+1776169471: New client connected from 172.18.0.1:60472 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169473: New connection from 172.18.0.1:60480 on port 1883.
+1776169473: Client ESP32_VOICE [172.18.0.1:60472] disconnected: session taken over.
+1776169473: New client connected from 172.18.0.1:60480 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169476: New connection from 172.18.0.1:60490 on port 1883.
+1776169476: Client ESP32_VOICE [172.18.0.1:60480] disconnected: session taken over.
+1776169476: New client connected from 172.18.0.1:60490 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169478: New connection from 172.18.0.1:55770 on port 1883.
+1776169478: Client ESP32_VOICE [172.18.0.1:60490] disconnected: session taken over.
+1776169478: New client connected from 172.18.0.1:55770 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169481: New connection from 172.18.0.1:55778 on port 1883.
+1776169481: Client ESP32_VOICE [172.18.0.1:55770] disconnected: session taken over.
+1776169481: New client connected from 172.18.0.1:55778 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169484: New connection from 172.18.0.1:55790 on port 1883.
+1776169484: Client ESP32_VOICE [172.18.0.1:55778] disconnected: session taken over.
+1776169484: New client connected from 172.18.0.1:55790 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169487: New connection from 172.18.0.1:55794 on port 1883.
+1776169487: Client ESP32_VOICE [172.18.0.1:55790] disconnected: session taken over.
+1776169487: New client connected from 172.18.0.1:55794 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169489: New connection from 172.18.0.1:62988 on port 1883.
+1776169489: Client ESP32_VOICE [172.18.0.1:55794] disconnected: session taken over.
+1776169489: New client connected from 172.18.0.1:62988 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169492: New connection from 172.18.0.1:63000 on port 1883.
+1776169492: Client ESP32_VOICE [172.18.0.1:62988] disconnected: session taken over.
+1776169492: New client connected from 172.18.0.1:63000 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169494: New connection from 172.18.0.1:63002 on port 1883.
+1776169494: Client ESP32_VOICE [172.18.0.1:63000] disconnected: session taken over.
+1776169494: New client connected from 172.18.0.1:63002 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169497: New connection from 172.18.0.1:63016 on port 1883.
+1776169497: Client ESP32_VOICE [172.18.0.1:63002] disconnected: session taken over.
+1776169497: New client connected from 172.18.0.1:63016 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169499: New connection from 172.18.0.1:55306 on port 1883.
+1776169499: Client ESP32_VOICE [172.18.0.1:63016] disconnected: session taken over.
+1776169499: New client connected from 172.18.0.1:55306 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169502: New connection from 172.18.0.1:55308 on port 1883.
+1776169502: Client ESP32_VOICE [172.18.0.1:55306] disconnected: session taken over.
+1776169502: New client connected from 172.18.0.1:55308 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169504: New connection from 172.18.0.1:55318 on port 1883.
+1776169504: Client ESP32_VOICE [172.18.0.1:55308] disconnected: session taken over.
+1776169504: New client connected from 172.18.0.1:55318 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169507: New connection from 172.18.0.1:56466 on port 1883.
+1776169507: Client ESP32_VOICE [172.18.0.1:55318] disconnected: session taken over.
+1776169507: New client connected from 172.18.0.1:56466 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169509: New connection from 172.18.0.1:56470 on port 1883.
+1776169509: Client ESP32_VOICE [172.18.0.1:56466] disconnected: session taken over.
+1776169509: New client connected from 172.18.0.1:56470 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169512: New connection from 172.18.0.1:56480 on port 1883.
+1776169512: Client ESP32_VOICE [172.18.0.1:56470] disconnected: session taken over.
+1776169512: New client connected from 172.18.0.1:56480 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169514: New connection from 172.18.0.1:56496 on port 1883.
+1776169514: Client ESP32_VOICE [172.18.0.1:56480] disconnected: session taken over.
+1776169514: New client connected from 172.18.0.1:56496 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169517: New connection from 172.18.0.1:60016 on port 1883.
+1776169517: Client ESP32_VOICE [172.18.0.1:56496] disconnected: session taken over.
+1776169517: New client connected from 172.18.0.1:60016 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169519: New connection from 172.18.0.1:60024 on port 1883.
+1776169519: Client ESP32_VOICE [172.18.0.1:60016] disconnected: session taken over.
+1776169519: New client connected from 172.18.0.1:60024 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169522: New connection from 172.18.0.1:60036 on port 1883.
+1776169522: Client ESP32_VOICE [172.18.0.1:60024] disconnected: session taken over.
+1776169522: New client connected from 172.18.0.1:60036 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169524: New connection from 172.18.0.1:60044 on port 1883.
+1776169524: Client ESP32_VOICE [172.18.0.1:60036] disconnected: session taken over.
+1776169524: New client connected from 172.18.0.1:60044 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169527: New connection from 172.18.0.1:60854 on port 1883.
+1776169527: Client ESP32_VOICE [172.18.0.1:60044] disconnected: session taken over.
+1776169527: New client connected from 172.18.0.1:60854 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169527: New connection from 172.18.0.1:60864 on port 1883.
+1776169527: Client ESP32_VOICE [172.18.0.1:60854] disconnected: session taken over.
+1776169527: New client connected from 172.18.0.1:60864 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169532: New connection from 172.18.0.1:60874 on port 1883.
+1776169532: Client ESP32_VOICE [172.18.0.1:60864] disconnected: session taken over.
+1776169532: New client connected from 172.18.0.1:60874 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169533: New connection from 172.18.0.1:60886 on port 1883.
+1776169533: Client ESP32_VOICE [172.18.0.1:60874] disconnected: session taken over.
+1776169533: New client connected from 172.18.0.1:60886 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169537: New connection from 172.18.0.1:58838 on port 1883.
+1776169537: Client ESP32_VOICE [172.18.0.1:60886] disconnected: session taken over.
+1776169537: New client connected from 172.18.0.1:58838 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169538: New connection from 172.18.0.1:58844 on port 1883.
+1776169538: Client ESP32_VOICE [172.18.0.1:58838] disconnected: session taken over.
+1776169538: New client connected from 172.18.0.1:58844 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169547: New connection from 172.18.0.1:58260 on port 1883.
+1776169547: Client ESP32_VOICE [172.18.0.1:58844] disconnected: session taken over.
+1776169547: New client connected from 172.18.0.1:58260 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169547: New connection from 172.18.0.1:58262 on port 1883.
+1776169547: Client ESP32_VOICE [172.18.0.1:58260] disconnected: session taken over.
+1776169547: New client connected from 172.18.0.1:58262 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169552: New connection from 172.18.0.1:58268 on port 1883.
+1776169552: Client ESP32_VOICE [172.18.0.1:58262] disconnected: session taken over.
+1776169552: New client connected from 172.18.0.1:58268 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169553: New connection from 172.18.0.1:58276 on port 1883.
+1776169553: Client ESP32_VOICE [172.18.0.1:58268] disconnected: session taken over.
+1776169553: New client connected from 172.18.0.1:58276 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169558: New connection from 172.18.0.1:57442 on port 1883.
+1776169558: Client ESP32_VOICE [172.18.0.1:58276] disconnected: session taken over.
+1776169558: New client connected from 172.18.0.1:57442 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169558: New connection from 172.18.0.1:57454 on port 1883.
+1776169558: Client ESP32_VOICE [172.18.0.1:57442] disconnected: session taken over.
+1776169558: New client connected from 172.18.0.1:57454 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169563: New connection from 172.18.0.1:57456 on port 1883.
+1776169563: Client ESP32_VOICE [172.18.0.1:57454] disconnected: session taken over.
+1776169563: New client connected from 172.18.0.1:57456 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169563: New connection from 172.18.0.1:57468 on port 1883.
+1776169563: Client ESP32_VOICE [172.18.0.1:57456] disconnected: session taken over.
+1776169563: New client connected from 172.18.0.1:57468 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169568: New connection from 172.18.0.1:57102 on port 1883.
+1776169568: Client ESP32_VOICE [172.18.0.1:57468] disconnected: session taken over.
+1776169568: New client connected from 172.18.0.1:57102 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169568: New connection from 172.18.0.1:57116 on port 1883.
+1776169568: Client ESP32_VOICE [172.18.0.1:57102] disconnected: session taken over.
+1776169568: New client connected from 172.18.0.1:57116 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169573: New connection from 172.18.0.1:57124 on port 1883.
+1776169573: Client ESP32_VOICE [172.18.0.1:57116] disconnected: session taken over.
+1776169573: New client connected from 172.18.0.1:57124 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169573: New connection from 172.18.0.1:57126 on port 1883.
+1776169573: Client ESP32_VOICE [172.18.0.1:57124] disconnected: session taken over.
+1776169573: New client connected from 172.18.0.1:57126 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169578: New connection from 172.18.0.1:58522 on port 1883.
+1776169578: Client ESP32_VOICE [172.18.0.1:57126] disconnected: session taken over.
+1776169578: New client connected from 172.18.0.1:58522 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169578: New connection from 172.18.0.1:58530 on port 1883.
+1776169578: Client ESP32_VOICE [172.18.0.1:58522] disconnected: session taken over.
+1776169578: New client connected from 172.18.0.1:58530 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169583: New connection from 172.18.0.1:58544 on port 1883.
+1776169583: Client ESP32_VOICE [172.18.0.1:58530] disconnected: session taken over.
+1776169583: New client connected from 172.18.0.1:58544 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169583: New connection from 172.18.0.1:58556 on port 1883.
+1776169583: Client ESP32_VOICE [172.18.0.1:58544] disconnected: session taken over.
+1776169583: New client connected from 172.18.0.1:58556 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169588: New connection from 172.18.0.1:55900 on port 1883.
+1776169588: Client ESP32_VOICE [172.18.0.1:58556] disconnected: session taken over.
+1776169588: New client connected from 172.18.0.1:55900 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169588: New connection from 172.18.0.1:55914 on port 1883.
+1776169588: Client ESP32_VOICE [172.18.0.1:55900] disconnected: session taken over.
+1776169588: New client connected from 172.18.0.1:55914 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169593: New connection from 172.18.0.1:55930 on port 1883.
+1776169593: Client ESP32_VOICE [172.18.0.1:55914] disconnected: session taken over.
+1776169593: New client connected from 172.18.0.1:55930 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169593: New connection from 172.18.0.1:55938 on port 1883.
+1776169593: Client ESP32_VOICE [172.18.0.1:55930] disconnected: session taken over.
+1776169593: New client connected from 172.18.0.1:55938 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169598: New connection from 172.18.0.1:65084 on port 1883.
+1776169598: Client ESP32_VOICE [172.18.0.1:55938] disconnected: session taken over.
+1776169598: New client connected from 172.18.0.1:65084 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169599: New connection from 172.18.0.1:65100 on port 1883.
+1776169599: Client ESP32_VOICE [172.18.0.1:65084] disconnected: session taken over.
+1776169599: New client connected from 172.18.0.1:65100 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169603: New connection from 172.18.0.1:65110 on port 1883.
+1776169603: Client ESP32_VOICE [172.18.0.1:65100] disconnected: session taken over.
+1776169603: New client connected from 172.18.0.1:65110 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169604: New connection from 172.18.0.1:65112 on port 1883.
+1776169604: Client ESP32_VOICE [172.18.0.1:65110] disconnected: session taken over.
+1776169604: New client connected from 172.18.0.1:65112 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169608: New connection from 172.18.0.1:63854 on port 1883.
+1776169608: Client ESP32_VOICE [172.18.0.1:65112] disconnected: session taken over.
+1776169608: New client connected from 172.18.0.1:63854 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169609: New connection from 172.18.0.1:63864 on port 1883.
+1776169609: Client ESP32_VOICE [172.18.0.1:63854] disconnected: session taken over.
+1776169609: New client connected from 172.18.0.1:63864 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169614: New connection from 172.18.0.1:63868 on port 1883.
+1776169614: Client ESP32_VOICE [172.18.0.1:63864] disconnected: session taken over.
+1776169614: New client connected from 172.18.0.1:63868 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169614: New connection from 172.18.0.1:63880 on port 1883.
+1776169614: Client ESP32_VOICE [172.18.0.1:63868] disconnected: session taken over.
+1776169614: New client connected from 172.18.0.1:63880 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169618: New connection from 172.18.0.1:58492 on port 1883.
+1776169618: Client ESP32_VOICE [172.18.0.1:63880] disconnected: session taken over.
+1776169618: New client connected from 172.18.0.1:58492 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169619: New connection from 172.18.0.1:58494 on port 1883.
+1776169619: Client ESP32_VOICE [172.18.0.1:58492] disconnected: session taken over.
+1776169619: New client connected from 172.18.0.1:58494 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169624: New connection from 172.18.0.1:58506 on port 1883.
+1776169624: Client ESP32_VOICE [172.18.0.1:58494] disconnected: session taken over.
+1776169624: New client connected from 172.18.0.1:58506 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776169647: New connection from 172.18.0.1:60408 on port 1883.
+1776169647: New client connected from 172.18.0.1:60408 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776169654: New connection from 172.18.0.1:60420 on port 1883.
+1776169654: Client ESP32_CAM [172.18.0.1:60408] disconnected: session taken over.
+1776169654: New client connected from 172.18.0.1:60420 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776169806: New connection from 172.18.0.1:58132 on port 1883.
+1776169806: Client ESP32_CAM [172.18.0.1:60420] disconnected: session taken over.
+1776169806: New client connected from 172.18.0.1:58132 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776170138: Client ESP32_CAM [172.18.0.1:58132] disconnected: exceeded timeout.
+1776170141: New connection from 172.18.0.1:60612 on port 1883.
+1776170141: New client connected from 172.18.0.1:60612 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776171208: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776172035: New connection from 172.18.0.1:64182 on port 1883.
+1776172035: Client ESP32_DOOR [172.18.0.1:61286] disconnected: session taken over.
+1776172035: New client connected from 172.18.0.1:64182 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776172161: Client ESP32_CAM [172.18.0.1:60612] disconnected: exceeded timeout.
+1776172180: New connection from 172.18.0.1:60496 on port 1883.
+1776172180: New client connected from 172.18.0.1:60496 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776172253: New connection from 172.18.0.1:55224 on port 1883.
+1776172253: Client ESP32_DOOR [172.18.0.1:64182] disconnected: session taken over.
+1776172253: New client connected from 172.18.0.1:55224 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776173009: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776173153: New connection from 172.18.0.1:61850 on port 1883.
+1776173153: Client ESP32_DOOR [172.18.0.1:55224] disconnected: session taken over.
+1776173153: New client connected from 172.18.0.1:61850 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776174810: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776176611: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776178412: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776180213: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776182014: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776183815: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776185615: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776187416: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776189217: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776190834: Client ESP32_CAM [172.18.0.1:60496] disconnected: exceeded timeout.
+1776191018: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776191935: Client ESP32_VOICE [172.18.0.1:58506] disconnected: exceeded timeout.
+1776191943: Client ESP32_DOOR [172.18.0.1:61850] disconnected: exceeded timeout.
+1776192819: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776194620: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776196421: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776198222: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776200023: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776201824: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776203625: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776205426: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776207227: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776209028: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776210829: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776212630: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776214431: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776216232: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776218032: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776219833: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776221634: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776223435: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776225236: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776227037: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776232978: New connection from 172.18.0.1:57424 on port 1883.
+1776232978: New client connected from 172.18.0.1:57424 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776232980: New connection from 172.18.0.1:57428 on port 1883.
+1776232980: New client connected from 172.18.0.1:57428 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776233859: Client ESP32_DOOR [172.18.0.1:57424] disconnected: exceeded timeout.
+1776233931: Client ESP32_VOICE [172.18.0.1:57428] disconnected: exceeded timeout.
+1776234078: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776234372: New connection from 172.18.0.1:57562 on port 1883.
+1776234372: New client connected from 172.18.0.1:57562 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776234497: New connection from 172.18.0.1:58128 on port 1883.
+1776234497: New client connected from 172.18.0.1:58128 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776234539: New connection from 172.18.0.1:56814 on port 1883.
+1776234539: Client ESP32_VOICE [172.18.0.1:58128] disconnected: session taken over.
+1776234539: New client connected from 172.18.0.1:56814 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776234574: New connection from 172.18.0.1:57646 on port 1883.
+1776234574: Client ESP32_VOICE [172.18.0.1:56814] disconnected: session taken over.
+1776234574: New client connected from 172.18.0.1:57646 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776234579: New connection from 172.18.0.1:65098 on port 1883.
+1776234579: Client ESP32_VOICE [172.18.0.1:57646] disconnected: session taken over.
+1776234579: New client connected from 172.18.0.1:65098 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776234596: New connection from 172.18.0.1:55188 on port 1883.
+1776234596: Client ESP32_VOICE [172.18.0.1:65098] disconnected: session taken over.
+1776234596: New client connected from 172.18.0.1:55188 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776234739: New connection from 172.18.0.1:58186 on port 1883.
+1776234739: New client connected from 172.18.0.1:58186 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776234777: Client ESP32_CAM [172.18.0.1:58186] disconnected: exceeded timeout.
+1776234805: New connection from 172.18.0.1:56208 on port 1883.
+1776234805: New client connected from 172.18.0.1:56208 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776234923: New connection from 172.18.0.1:64082 on port 1883.
+1776234923: Client ESP32_CAM [172.18.0.1:56208] disconnected: session taken over.
+1776234923: New client connected from 172.18.0.1:64082 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776235051: Client ESP32_CAM [172.18.0.1:64082] disconnected: exceeded timeout.
+1776235879: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776236351: Client ESP32_VOICE [172.18.0.1:55188] disconnected: exceeded timeout.
+1776236354: Client ESP32_DOOR [172.18.0.1:57562] disconnected: exceeded timeout.
+1776237498: New connection from 172.18.0.1:58662 on port 1883.
+1776237498: New client connected from 172.18.0.1:58662 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776237611: Client ESP32_CAM [172.18.0.1:58662] disconnected: exceeded timeout.
+1776237680: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776237833: New connection from 172.18.0.1:64300 on port 1883.
+1776237833: New client connected from 172.18.0.1:64300 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776238389: Client webapp_3653d2 [172.18.0.1:61248] disconnected: connection closed by client.
+1776238389: mosquitto version 2.1.2 terminating
+1776238389: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776238482: mosquitto version 2.1.2 starting
+1776238482: Config loaded from /mosquitto/config/mosquitto.conf.
+1776238482: Bridge support available.
+1776238482: Persistence support available.
+1776238482: TLS support available.
+1776238482: TLS-PSK support available.
+1776238482: Websockets support available.
+1776238482: Plugin builtin-security has registered to receive 'basic-auth' events.
+1776238482: Opening ipv4 listen socket on port 1883.
+1776238482: Opening ipv6 listen socket on port 1883.
+1776238482: mosquitto version 2.1.2 running
+1776239087: New connection from 172.18.0.1:56108 on port 1883.
+1776239087: New client connected from 172.18.0.1:56108 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776239087: New connection from 172.18.0.1:56122 on port 1883.
+1776239087: New client connected from 172.18.0.1:56122 as webapp_9026be (p4, c1, k60, u'mqttuser').
+1776239109: New connection from 172.18.0.1:55106 on port 1883.
+1776239109: Client ESP32_CAM [172.18.0.1:56108] disconnected: session taken over.
+1776239109: New client connected from 172.18.0.1:55106 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776239374: Client ESP32_CAM [172.18.0.1:55106] disconnected: exceeded timeout.
+1776239419: New connection from 172.18.0.1:57092 on port 1883.
+1776239419: New client connected from 172.18.0.1:57092 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776239459: Client ESP32_CAM [172.18.0.1:57092] disconnected: exceeded timeout.
+1776239462: New connection from 172.18.0.1:57378 on port 1883.
+1776239462: New client connected from 172.18.0.1:57378 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776239497: New connection from 172.18.0.1:60372 on port 1883.
+1776239497: New connection from 172.18.0.1:60388 on port 1883.
+1776239497: Protocol error from 172.18.0.1:60372: First packet not CONNECT (47).
+1776239497: Client 172.18.0.1 [172.18.0.1:60372] disconnected: protocol error.
+1776239499: Protocol error from 172.18.0.1:60388: First packet not CONNECT (47).
+1776239499: Client 172.18.0.1 [172.18.0.1:60388] disconnected: protocol error.
+1776239499: New connection from 172.18.0.1:60394 on port 1883.
+1776239499: Protocol error from 172.18.0.1:60394: First packet not CONNECT (47).
+1776239499: Client 172.18.0.1 [172.18.0.1:60394] disconnected: protocol error.
+1776239499: New connection from 172.18.0.1:60404 on port 1883.
+1776239499: Protocol error from 172.18.0.1:60404: First packet not CONNECT (47).
+1776239499: Client 172.18.0.1 [172.18.0.1:60404] disconnected: protocol error.
+1776239504: Client ESP32_CAM [172.18.0.1:57378] disconnected: exceeded timeout.
+1776239506: New connection from 172.18.0.1:60766 on port 1883.
+1776239507: New client connected from 172.18.0.1:60766 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776239641: Client ESP32_CAM [172.18.0.1:60766] disconnected: exceeded timeout.
+1776239646: New connection from 172.18.0.1:60696 on port 1883.
+1776239647: New client connected from 172.18.0.1:60696 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776239702: Client ESP32_CAM [172.18.0.1:60696] disconnected: exceeded timeout.
+1776239758: New connection from 172.18.0.1:62798 on port 1883.
+1776239762: New client connected from 172.18.0.1:62798 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776239799: New connection from 172.18.0.1:55982 on port 1883.
+1776239799: New client connected from 172.18.0.1:55982 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776239800: New connection from 172.18.0.1:55984 on port 1883.
+1776239800: New client connected from 172.18.0.1:55984 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776240127: Client ESP32_CAM [172.18.0.1:62798] disconnected: exceeded timeout.
+1776240161: New connection from 172.18.0.1:65108 on port 1883.
+1776240161: New client connected from 172.18.0.1:65108 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776240166: New connection from 172.18.0.1:61638 on port 1883.
+1776240166: Client ESP32_CAM [172.18.0.1:65108] disconnected: session taken over.
+1776240166: New client connected from 172.18.0.1:61638 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776240200: New connection from 172.18.0.1:55808 on port 1883.
+1776240200: Client ESP32_CAM [172.18.0.1:61638] disconnected: session taken over.
+1776240200: New client connected from 172.18.0.1:55808 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776240266: New connection from 172.18.0.1:57546 on port 1883.
+1776240266: Client ESP32_CAM [172.18.0.1:55808] disconnected: session taken over.
+1776240266: New client connected from 172.18.0.1:57546 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776240282: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776240329: New connection from 172.18.0.1:63756 on port 1883.
+1776240329: Client ESP32_CAM [172.18.0.1:57546] disconnected: session taken over.
+1776240329: New client connected from 172.18.0.1:63756 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776240386: New connection from 172.18.0.1:61068 on port 1883.
+1776240386: Client ESP32_CAM [172.18.0.1:63756] disconnected: session taken over.
+1776240386: New client connected from 172.18.0.1:61068 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776240419: New connection from 172.18.0.1:64382 on port 1883.
+1776240419: Client ESP32_CAM [172.18.0.1:61068] disconnected: session taken over.
+1776240419: New client connected from 172.18.0.1:64382 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776240685: New connection from 172.18.0.1:59630 on port 1883.
+1776240685: New connection from 172.18.0.1:59632 on port 1883.
+1776240685: Protocol error from 172.18.0.1:59630: First packet not CONNECT (47).
+1776240685: Client 172.18.0.1 [172.18.0.1:59630] disconnected: protocol error.
+1776240686: Protocol error from 172.18.0.1:59632: First packet not CONNECT (47).
+1776240686: Client 172.18.0.1 [172.18.0.1:59632] disconnected: protocol error.
+1776240686: New connection from 172.18.0.1:59644 on port 1883.
+1776240686: Protocol error from 172.18.0.1:59644: First packet not CONNECT (47).
+1776240686: Client 172.18.0.1 [172.18.0.1:59644] disconnected: protocol error.
+1776240686: New connection from 172.18.0.1:59656 on port 1883.
+1776240686: Protocol error from 172.18.0.1:59656: First packet not CONNECT (47).
+1776240686: Client 172.18.0.1 [172.18.0.1:59656] disconnected: protocol error.
+1776240689: New connection from 172.18.0.1:59672 on port 1883.
+1776240689: New connection from 172.18.0.1:59658 on port 1883.
+1776240689: Protocol error from 172.18.0.1:59658: First packet not CONNECT (47).
+1776240689: Client 172.18.0.1 [172.18.0.1:59658] disconnected: protocol error.
+1776240690: Protocol error from 172.18.0.1:59672: First packet not CONNECT (47).
+1776240690: Client 172.18.0.1 [172.18.0.1:59672] disconnected: protocol error.
+1776240690: New connection from 172.18.0.1:59676 on port 1883.
+1776240690: Protocol error from 172.18.0.1:59676: First packet not CONNECT (47).
+1776240690: Client 172.18.0.1 [172.18.0.1:59676] disconnected: protocol error.
+1776240690: New connection from 172.18.0.1:59682 on port 1883.
+1776240690: Protocol error from 172.18.0.1:59682: First packet not CONNECT (47).
+1776240690: Client 172.18.0.1 [172.18.0.1:59682] disconnected: protocol error.
+1776240712: Client ESP32_CAM [172.18.0.1:64382] disconnected: exceeded timeout.
+1776240754: New connection from 172.18.0.1:55706 on port 1883.
+1776240754: New client connected from 172.18.0.1:55706 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241017: Client ESP32_CAM [172.18.0.1:55706] disconnected: exceeded timeout.
+1776241057: New connection from 172.18.0.1:58254 on port 1883.
+1776241057: New client connected from 172.18.0.1:58254 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241095: Client ESP32_CAM [172.18.0.1:58254] disconnected: exceeded timeout.
+1776241098: New connection from 172.18.0.1:59842 on port 1883.
+1776241098: New client connected from 172.18.0.1:59842 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241120: Client ESP32_CAM [172.18.0.1:59842] disconnected: exceeded timeout.
+1776241122: New connection from 172.18.0.1:61314 on port 1883.
+1776241122: New client connected from 172.18.0.1:61314 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241129: New connection from 172.18.0.1:61320 on port 1883.
+1776241129: Protocol error from 172.18.0.1:61320: First packet not CONNECT (47).
+1776241129: Client 172.18.0.1 [172.18.0.1:61320] disconnected: protocol error.
+1776241129: New connection from 172.18.0.1:61330 on port 1883.
+1776241130: Protocol error from 172.18.0.1:61330: First packet not CONNECT (47).
+1776241130: Client 172.18.0.1 [172.18.0.1:61330] disconnected: protocol error.
+1776241130: New connection from 172.18.0.1:61344 on port 1883.
+1776241130: Protocol error from 172.18.0.1:61344: First packet not CONNECT (47).
+1776241130: Client 172.18.0.1 [172.18.0.1:61344] disconnected: protocol error.
+1776241130: New connection from 172.18.0.1:61356 on port 1883.
+1776241130: Protocol error from 172.18.0.1:61356: First packet not CONNECT (47).
+1776241130: Client 172.18.0.1 [172.18.0.1:61356] disconnected: protocol error.
+1776241135: New connection from 172.18.0.1:55852 on port 1883.
+1776241135: New connection from 172.18.0.1:55856 on port 1883.
+1776241135: Protocol error from 172.18.0.1:55852: First packet not CONNECT (47).
+1776241135: Client 172.18.0.1 [172.18.0.1:55852] disconnected: protocol error.
+1776241165: Protocol error from 172.18.0.1:55856: First packet not CONNECT (47).
+1776241165: Client 172.18.0.1 [172.18.0.1:55856] disconnected: protocol error.
+1776241165: New connection from 172.18.0.1:57474 on port 1883.
+1776241165: Protocol error from 172.18.0.1:57474: First packet not CONNECT (47).
+1776241165: Client 172.18.0.1 [172.18.0.1:57474] disconnected: protocol error.
+1776241165: New connection from 172.18.0.1:57478 on port 1883.
+1776241165: Protocol error from 172.18.0.1:57478: First packet not CONNECT (47).
+1776241165: Client 172.18.0.1 [172.18.0.1:57478] disconnected: protocol error.
+1776241191: Client ESP32_CAM [172.18.0.1:61314] disconnected: exceeded timeout.
+1776241225: New connection from 172.18.0.1:59972 on port 1883.
+1776241225: New connection from 172.18.0.1:59984 on port 1883.
+1776241225: Protocol error from 172.18.0.1:59972: First packet not CONNECT (47).
+1776241225: Client 172.18.0.1 [172.18.0.1:59972] disconnected: protocol error.
+1776241255: Client 172.18.0.1 [172.18.0.1:59984] disconnected: exceeded timeout.
+1776241297: New connection from 172.18.0.1:63322 on port 1883.
+1776241297: Client ESP32_VOICE [172.18.0.1:55982] disconnected: session taken over.
+1776241297: New client connected from 172.18.0.1:63322 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776241313: New connection from 172.18.0.1:60310 on port 1883.
+1776241313: New client connected from 172.18.0.1:60310 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241541: New connection from 172.18.0.1:55714 on port 1883.
+1776241541: Client ESP32_CAM [172.18.0.1:60310] disconnected: session taken over.
+1776241541: New client connected from 172.18.0.1:55714 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241598: New connection from 172.18.0.1:64352 on port 1883.
+1776241598: Client ESP32_CAM [172.18.0.1:55714] disconnected: session taken over.
+1776241598: New client connected from 172.18.0.1:64352 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241639: New connection from 172.18.0.1:61924 on port 1883.
+1776241639: Client ESP32_CAM [172.18.0.1:64352] disconnected: session taken over.
+1776241639: New client connected from 172.18.0.1:61924 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241715: New connection from 172.18.0.1:61762 on port 1883.
+1776241715: Client ESP32_CAM [172.18.0.1:61924] disconnected: session taken over.
+1776241715: New client connected from 172.18.0.1:61762 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241723: New connection from 172.18.0.1:58242 on port 1883.
+1776241723: Client ESP32_CAM [172.18.0.1:61762] disconnected: session taken over.
+1776241723: New client connected from 172.18.0.1:58242 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241737: New connection from 172.18.0.1:56436 on port 1883.
+1776241737: Client ESP32_CAM [172.18.0.1:58242] disconnected: session taken over.
+1776241737: New client connected from 172.18.0.1:56436 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241774: Client ESP32_CAM [172.18.0.1:56436] disconnected: exceeded timeout.
+1776241789: New connection from 172.18.0.1:62088 on port 1883.
+1776241789: New client connected from 172.18.0.1:62088 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241793: New connection from 172.18.0.1:62502 on port 1883.
+1776241793: Client ESP32_CAM [172.18.0.1:62088] disconnected: session taken over.
+1776241793: New client connected from 172.18.0.1:62502 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241816: Client ESP32_CAM [172.18.0.1:62502] disconnected: exceeded timeout.
+1776241828: New connection from 172.18.0.1:61120 on port 1883.
+1776241828: New client connected from 172.18.0.1:61120 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241837: New connection from 172.18.0.1:64230 on port 1883.
+1776241837: Client ESP32_CAM [172.18.0.1:61120] disconnected: session taken over.
+1776241837: New client connected from 172.18.0.1:64230 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776241860: Client ESP32_CAM [172.18.0.1:64230] disconnected: exceeded timeout.
+1776241916: Client webapp_9026be [172.18.0.1:56122] disconnected: connection closed by client.
+1776241916: New connection from 172.18.0.1:63424 on port 1883.
+1776241916: New client connected from 172.18.0.1:63424 as webapp_74b39b (p4, c1, k60, u'mqttuser').
+1776242015: Client webapp_74b39b [172.18.0.1:63424] disconnected: connection closed by client.
+1776242015: New connection from 172.18.0.1:61336 on port 1883.
+1776242015: New client connected from 172.18.0.1:61336 as webapp_43a4a7 (p4, c1, k60, u'mqttuser').
+1776242085: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776242737: New connection from 172.18.0.1:56900 on port 1883.
+1776242737: Client 172.18.0.1 [172.18.0.1:56900] disconnected: connection closed by client.
+1776242777: New connection from 172.18.0.1:63082 on port 1883.
+1776242777: Client 172.18.0.1 [172.18.0.1:63082] disconnected: connection closed by client.
+1776242783: Client webapp_43a4a7 [172.18.0.1:61336] disconnected: connection closed by client.
+1776242784: New connection from 172.18.0.1:64654 on port 1883.
+1776242784: New client connected from 172.18.0.1:64654 as webapp_abd75a (p4, c1, k60, u'mqttuser').
+1776242800: New connection from 172.18.0.1:61408 on port 1883.
+1776242800: Protocol error from 172.18.0.1:61408: First packet not CONNECT (47).
+1776242800: Client 172.18.0.1 [172.18.0.1:61408] disconnected: protocol error.
+1776242800: New connection from 172.18.0.1:61420 on port 1883.
+1776242802: Protocol error from 172.18.0.1:61420: First packet not CONNECT (47).
+1776242802: Client 172.18.0.1 [172.18.0.1:61420] disconnected: protocol error.
+1776242802: New connection from 172.18.0.1:61422 on port 1883.
+1776242802: Protocol error from 172.18.0.1:61422: First packet not CONNECT (47).
+1776242802: Client 172.18.0.1 [172.18.0.1:61422] disconnected: protocol error.
+1776242802: New connection from 172.18.0.1:61438 on port 1883.
+1776242802: Protocol error from 172.18.0.1:61438: First packet not CONNECT (47).
+1776242802: Client 172.18.0.1 [172.18.0.1:61438] disconnected: protocol error.
+1776242807: New connection from 172.18.0.1:61014 on port 1883.
+1776242807: New connection from 172.18.0.1:61020 on port 1883.
+1776242807: Protocol error from 172.18.0.1:61014: First packet not CONNECT (47).
+1776242807: Client 172.18.0.1 [172.18.0.1:61014] disconnected: protocol error.
+1776242837: Protocol error from 172.18.0.1:61020: First packet not CONNECT (47).
+1776242837: Client 172.18.0.1 [172.18.0.1:61020] disconnected: protocol error.
+1776242837: New connection from 172.18.0.1:56762 on port 1883.
+1776242837: New connection from 172.18.0.1:56768 on port 1883.
+1776242837: Protocol error from 172.18.0.1:56762: First packet not CONNECT (47).
+1776242837: Client 172.18.0.1 [172.18.0.1:56762] disconnected: protocol error.
+1776242867: Client 172.18.0.1 [172.18.0.1:56768] disconnected: exceeded timeout.
+1776242897: New connection from 172.18.0.1:61448 on port 1883.
+1776242897: New connection from 172.18.0.1:61450 on port 1883.
+1776242897: Protocol error from 172.18.0.1:61450: First packet not CONNECT (47).
+1776242897: Client 172.18.0.1 [172.18.0.1:61450] disconnected: protocol error.
+1776242927: Client 172.18.0.1 [172.18.0.1:61448] disconnected: exceeded timeout.
+1776242937: New connection from 172.18.0.1:64402 on port 1883.
+1776242937: Protocol error from 172.18.0.1:64402: First packet not CONNECT (47).
+1776242937: Client 172.18.0.1 [172.18.0.1:64402] disconnected: protocol error.
+1776242937: New connection from 172.18.0.1:64416 on port 1883.
+1776242938: Protocol error from 172.18.0.1:64416: First packet not CONNECT (47).
+1776242938: Client 172.18.0.1 [172.18.0.1:64416] disconnected: protocol error.
+1776242938: New connection from 172.18.0.1:64418 on port 1883.
+1776242938: Protocol error from 172.18.0.1:64418: First packet not CONNECT (47).
+1776242938: Client 172.18.0.1 [172.18.0.1:64418] disconnected: protocol error.
+1776242938: New connection from 172.18.0.1:64426 on port 1883.
+1776242938: Protocol error from 172.18.0.1:64426: First packet not CONNECT (47).
+1776242938: Client 172.18.0.1 [172.18.0.1:64426] disconnected: protocol error.
+1776243119: New connection from 172.18.0.1:55306 on port 1883.
+1776243119: Client ESP32_VOICE [172.18.0.1:63322] disconnected: session taken over.
+1776243119: New client connected from 172.18.0.1:55306 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776243157: New connection from 172.18.0.1:60454 on port 1883.
+1776243157: New client connected from 172.18.0.1:60454 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776243247: Client ESP32_CAM [172.18.0.1:60454] disconnected: exceeded timeout.
+1776243253: New connection from 172.18.0.1:58966 on port 1883.
+1776243253: New client connected from 172.18.0.1:58966 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776243267: Client ESP32_CAM [172.18.0.1:58966] disconnected: connection closed by client.
+1776243267: New connection from 172.18.0.1:62188 on port 1883.
+1776243267: New client connected from 172.18.0.1:62188 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776243403: Client ESP32_CAM [172.18.0.1:62188] disconnected: exceeded timeout.
+1776243461: New connection from 172.18.0.1:57008 on port 1883.
+1776243461: Client ESP32_VOICE [172.18.0.1:55306] disconnected: session taken over.
+1776243461: New client connected from 172.18.0.1:57008 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776243886: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776244044: New connection from 172.18.0.1:63570 on port 1883.
+1776244044: New client connected from 172.18.0.1:63570 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776244101: New connection from 172.18.0.1:59900 on port 1883.
+1776244101: Client ESP32_CAM [172.18.0.1:63570] disconnected: session taken over.
+1776244101: New client connected from 172.18.0.1:59900 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776244189: Client ESP32_DOOR [172.18.0.1:55984] disconnected: exceeded timeout.
+1776244197: New connection from 172.18.0.1:58452 on port 1883.
+1776244197: New client connected from 172.18.0.1:58452 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776244199: Client ESP32_CAM [172.18.0.1:59900] disconnected: exceeded timeout.
+1776244203: New connection from 172.18.0.1:58460 on port 1883.
+1776244203: New client connected from 172.18.0.1:58460 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776244311: Client webapp_abd75a [172.18.0.1:64654] disconnected: connection closed by client.
+1776244315: New connection from 172.18.0.1:62738 on port 1883.
+1776244315: New client connected from 172.18.0.1:62738 as webapp_7e612c (p4, c1, k60, u'mqttuser').
+1776244725: Client webapp_7e612c [172.18.0.1:62738] disconnected: connection closed by client.
+1776244726: New connection from 172.18.0.1:56158 on port 1883.
+1776244726: New client connected from 172.18.0.1:56158 as webapp_850881 (p4, c1, k60, u'mqttuser').
+1776244800: New connection from 172.18.0.1:62870 on port 1883.
+1776244800: Client ESP32_CAM [172.18.0.1:58460] disconnected: session taken over.
+1776244800: New client connected from 172.18.0.1:62870 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776244879: Client ESP32_VOICE [172.18.0.1:57008] disconnected: exceeded timeout.
+1776244880: Client ESP32_DOOR [172.18.0.1:58452] disconnected: exceeded timeout.
+1776244880: Client ESP32_CAM [172.18.0.1:62870] disconnected: exceeded timeout.
+1776244920: Client webapp_850881 [172.18.0.1:56158] disconnected: exceeded timeout.
+1776245687: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776246148: New connection from 172.18.0.1:62954 on port 1883.
+1776246148: New client connected from 172.18.0.1:62954 as webapp_850881 (p4, c1, k60, u'mqttuser').
+1776247488: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776253449: Client webapp_850881 [172.18.0.1:62954] disconnected: exceeded timeout.
+1776254409: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776256210: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776258011: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776259812: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776261613: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776263414: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776265215: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776267016: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776268817: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776270618: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776272419: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776279096: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776280897: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776282698: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776284499: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776286300: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776288101: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776289902: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776291703: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776293504: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776295305: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776297106: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776298907: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776300708: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776302509: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776304310: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776306110: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776307911: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776309712: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776311513: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776313314: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776315115: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776316916: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776321723: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776323524: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776335975: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776339557: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776342652: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776344453: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776346254: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776348055: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776349855: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776351656: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776362123: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776363924: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776365725: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776367526: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776369327: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776371129: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776372930: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776374731: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776376532: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776378333: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776380133: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776381934: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776383735: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776385536: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776387337: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776389138: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776390939: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776392740: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776394541: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776396342: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776398143: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776399944: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776401745: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776403546: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776405347: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776407148: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776408949: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776410750: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776412551: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776414352: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776416153: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776417954: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776419755: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776421556: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776428696: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776430497: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776432298: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776441093: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776442894: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776444694: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776446495: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776448296: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776450097: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776451898: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776453715: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776455516: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776486541: New connection from 172.18.0.1:59954 on port 1883.
+1776486541: New client connected from 172.18.0.1:59954 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776490965: New connection from 172.18.0.1:55716 on port 1883.
+1776490965: New client connected from 172.18.0.1:55716 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776491097: New connection from 172.18.0.1:63886 on port 1883.
+1776491097: Client ESP32_DOOR [172.18.0.1:55716] disconnected: session taken over.
+1776491097: New client connected from 172.18.0.1:63886 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776491200: New connection from 172.18.0.1:55930 on port 1883.
+1776491200: Client ESP32_DOOR [172.18.0.1:63886] disconnected: session taken over.
+1776491200: New client connected from 172.18.0.1:55930 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776491274: New connection from 172.18.0.1:58838 on port 1883.
+1776491274: Client ESP32_DOOR [172.18.0.1:55930] disconnected: session taken over.
+1776491274: New client connected from 172.18.0.1:58838 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776491394: Client ESP32_VOICE [172.18.0.1:59954] disconnected: exceeded timeout.
+1776491415: New connection from 172.18.0.1:59170 on port 1883.
+1776491415: New client connected from 172.18.0.1:59170 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776491422: Client ESP32_DOOR [172.18.0.1:58838] disconnected: exceeded timeout.
+1776491422: New connection from 172.18.0.1:59186 on port 1883.
+1776491422: New client connected from 172.18.0.1:59186 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776491452: New connection from 172.18.0.1:56316 on port 1883.
+1776491452: Client ESP32_DOOR [172.18.0.1:59186] disconnected: session taken over.
+1776491452: New client connected from 172.18.0.1:56316 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776491503: New connection from 172.18.0.1:61640 on port 1883.
+1776491503: New client connected from 172.18.0.1:61640 as webapp_e31ee4 (p4, c1, k60, u'mqttuser').
+1776491619: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776491685: Client webapp_e31ee4 [172.18.0.1:61640] disconnected: connection closed by client.
+1776491685: New connection from 172.18.0.1:58864 on port 1883.
+1776491685: New client connected from 172.18.0.1:58864 as webapp_1c2a2e (p4, c1, k60, u'mqttuser').
+1776491736: Client webapp_1c2a2e [172.18.0.1:58864] disconnected: connection closed by client.
+1776491736: New connection from 172.18.0.1:56724 on port 1883.
+1776491736: New client connected from 172.18.0.1:56724 as webapp_c5b7b8 (p4, c1, k60, u'mqttuser').
+1776492157: New connection from 172.18.0.1:61200 on port 1883.
+1776492158: New client connected from 172.18.0.1:61200 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776492182: New connection from 172.18.0.1:65086 on port 1883.
+1776492186: Client ESP32_CAM [172.18.0.1:61200] disconnected: session taken over.
+1776492186: New client connected from 172.18.0.1:65086 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776492274: Client ESP32_CAM [172.18.0.1:65086] disconnected: exceeded timeout.
+1776492290: New connection from 172.18.0.1:64938 on port 1883.
+1776492290: New client connected from 172.18.0.1:64938 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776492332: New connection from 172.18.0.1:60020 on port 1883.
+1776492332: Client ESP32_CAM [172.18.0.1:64938] disconnected: session taken over.
+1776492332: New client connected from 172.18.0.1:60020 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776492373: Client ESP32_CAM [172.18.0.1:60020] disconnected: exceeded timeout.
+1776492412: New connection from 172.18.0.1:59994 on port 1883.
+1776492412: New client connected from 172.18.0.1:59994 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776492483: Client ESP32_VOICE [172.18.0.1:59170] disconnected: exceeded timeout.
+1776492487: Client ESP32_CAM [172.18.0.1:59994] disconnected: exceeded timeout.
+1776492492: New connection from 172.18.0.1:60932 on port 1883.
+1776492492: Client ESP32_DOOR [172.18.0.1:56316] disconnected: session taken over.
+1776492492: New client connected from 172.18.0.1:60932 as ESP32_DOOR (p4, c1, k15, u'mqttuser').
+1776492492: New connection from 172.18.0.1:60940 on port 1883.
+1776492492: New client connected from 172.18.0.1:60940 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776492564: New connection from 172.18.0.1:65206 on port 1883.
+1776492564: Client ESP32_VOICE [172.18.0.1:60940] disconnected: session taken over.
+1776492564: New client connected from 172.18.0.1:65206 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776492687: New connection from 172.18.0.1:56180 on port 1883.
+1776492687: New client connected from 172.18.0.1:56180 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776492697: New connection from 172.18.0.1:56166 on port 1883.
+1776492697: Client ESP32_CAM [172.18.0.1:56180] disconnected: session taken over.
+1776492697: New client connected from 172.18.0.1:56166 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776492722: Client ESP32_CAM [172.18.0.1:56166] disconnected: exceeded timeout.
+1776492725: New connection from 172.18.0.1:62684 on port 1883.
+1776492736: New client connected from 172.18.0.1:62684 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776492758: New connection from 172.18.0.1:58738 on port 1883.
+1776492758: Client ESP32_CAM [172.18.0.1:62684] disconnected: session taken over.
+1776492758: New client connected from 172.18.0.1:58738 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776492796: Client ESP32_CAM [172.18.0.1:58738] disconnected: exceeded timeout.
+1776492837: New connection from 172.18.0.1:64848 on port 1883.
+1776492837: New client connected from 172.18.0.1:64848 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776492875: Client ESP32_CAM [172.18.0.1:64848] disconnected: exceeded timeout.
+1776492928: New connection from 172.18.0.1:64012 on port 1883.
+1776492928: New client connected from 172.18.0.1:64012 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776492973: Client ESP32_CAM [172.18.0.1:64012] disconnected: exceeded timeout.
+1776493017: New connection from 172.18.0.1:61274 on port 1883.
+1776493017: New client connected from 172.18.0.1:61274 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776493127: Client ESP32_CAM [172.18.0.1:61274] disconnected: exceeded timeout.
+1776493139: New connection from 172.18.0.1:58322 on port 1883.
+1776493139: New client connected from 172.18.0.1:58322 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776493148: New connection from 172.18.0.1:55608 on port 1883.
+1776493148: Client ESP32_CAM [172.18.0.1:58322] disconnected: session taken over.
+1776493148: New client connected from 172.18.0.1:55608 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776493185: Client ESP32_CAM [172.18.0.1:55608] disconnected: exceeded timeout.
+1776493232: New connection from 172.18.0.1:64136 on port 1883.
+1776493232: New client connected from 172.18.0.1:64136 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776493255: Client ESP32_CAM [172.18.0.1:64136] disconnected: exceeded timeout.
+1776493459: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776493734: New connection from 172.18.0.1:58658 on port 1883.
+1776493734: Client ESP32_VOICE [172.18.0.1:65206] disconnected: session taken over.
+1776493734: New client connected from 172.18.0.1:58658 as ESP32_VOICE (p4, c1, k15, u'mqttuser').
+1776493775: New connection from 172.18.0.1:63712 on port 1883.
+1776493775: New client connected from 172.18.0.1:63712 as ESP32_CAM (p4, c1, k15, u'mqttuser').
+1776493812: Client ESP32_CAM [172.18.0.1:63712] disconnected: exceeded timeout.
+1776493863: New connection from 172.18.0.1:62014 on port 1883.
+1776493863: New client connected from 172.18.0.1:62014 as ESP32_CAM (p4, c1, k60, u'mqttuser').
+1776493907: New connection from 172.18.0.1:60200 on port 1883.
+1776493908: Client ESP32_CAM [172.18.0.1:62014] disconnected: session taken over.
+1776493908: New client connected from 172.18.0.1:60200 as ESP32_CAM (p4, c1, k60, u'mqttuser').
+1776494049: New connection from 172.18.0.1:55662 on port 1883.
+1776494049: Client ESP32_CAM [172.18.0.1:60200] disconnected: session taken over.
+1776494049: New client connected from 172.18.0.1:55662 as ESP32_CAM (p4, c1, k60, u'mqttuser').
+1776494199: New connection from 172.18.0.1:55850 on port 1883.
+1776494201: Client ESP32_CAM [172.18.0.1:55662] disconnected: connection closed by client.
+1776494201: New client connected from 172.18.0.1:55850 as ESP32_CAM (p4, c1, k60, u'mqttuser').
+1776494299: New connection from 172.18.0.1:59354 on port 1883.
+1776494299: Client ESP32_CAM [172.18.0.1:55850] disconnected: session taken over.
+1776494299: New client connected from 172.18.0.1:59354 as ESP32_CAM (p4, c1, k60, u'mqttuser').
+1776494631: Client ESP32_CAM [172.18.0.1:59354] disconnected: exceeded timeout.
+1776494655: Client ESP32_VOICE [172.18.0.1:58658] disconnected: exceeded timeout.
+1776494667: Client ESP32_DOOR [172.18.0.1:60932] disconnected: exceeded timeout.
+1776495261: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776497062: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776498863: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776500664: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776502465: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776530422: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776532223: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776534024: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776538597: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776540398: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776542199: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776544000: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776545801: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776547602: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776549404: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776551205: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776553006: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776554807: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776556608: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776558409: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776560210: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776562011: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776582739: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776584540: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776586341: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776588142: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776589943: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776591744: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776593545: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776595346: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776597147: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776598948: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776600748: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776602549: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776604350: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776606151: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776607952: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776609753: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776611554: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776613355: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776615156: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776616957: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776618758: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776620559: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776622360: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776624161: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776625962: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776627763: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776629564: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776631365: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776669443: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776671243: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776673044: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776674845: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776676646: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776678447: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776680248: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776682049: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776683850: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776685507: Client webapp_c5b7b8 [172.18.0.1:56724] disconnected: exceeded timeout.
+1776688780: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1776690581: Saving in-memory database to /mosquitto/data//mosquitto.db.
